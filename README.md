@@ -17,8 +17,11 @@ L'application se compose de plusieurs pages principales :
 
 1. **Home Page (page d'accueil)** : Introduction générale au projet et navigation vers les autres pages.
 2. **OCR Detection Page** : Permet de tester l'OCR en chargeant une image. Affiche les zones détectées et le texte extrait.
+![Détection](GIFs/Detection.gif)
 3. **Classification Page** : Teste le modèle de classification. L'utilisateur peut soumettre un texte pour voir comment il est classifié.
+![Détection](GIFs/Classification.gif)
 4. **Image Generation Page** : Génère des images synthétiques de plaques signalétiques en fonction des descriptions fournies.
+![Détection](GIFs/Generation.gif)
 5. **Test intégré OCR + Classification** : Une page de test combinée (à venir), qui permet de faire la détection OCR puis de classifier automatiquement les éléments détectés.
 
 ## Prérequis

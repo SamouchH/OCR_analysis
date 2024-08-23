@@ -1,0 +1,16 @@
+80,48,188,48,188,72,80,72	VIESSMANN	0
+233,47,405,47,405,64,233,64	VITOPLEX 100	0
+78,90,289,90,289,113,78,113	Chaudière selon EN 303 et DIN 4702 Boiler approved to EN 303 and DIN 4702	0
+83,150,402,150,402,173,83,173	Typ/Type  SX1	0
+88,434,403,433,399,456,88,455	Intensité nominale absorbée maxi   Max. rated current consumption  6A	0
+91,460,180,460,180,484,91,484	CE-0035	0
+340,482,396,482,396,495,340,495	SOLO 10791 M	0
+346,552,398,552,398,568,346,568	5273811	0
+79,127,413,120,413,152,79,152	N° de fabrication  7143290300146 Index: 109 Serial number	0
+83,187,404,187,404,211,83,211	Annse de fabrication 2003 Year of construction	0
+85,222,404,222,404,248,85,248	Puissance nominale pour fioul/gaz P0  Rated output for oil/gas  1750 kW	0
+82,260,401,260,401,286,82,286	Pas pour CH, DE, SE :  Gamme de puissance fioul/gaz P0  Not for CH, DE, SE : Output for oil/gas  1750 - 1925 kW	0
+84,297,399,297,399,319,84,319	Capacité eau de chauffage   Boiler water capcity  2131 l	0
+86,330,400,330,400,355,86,355	Pression de service maxi chaudière   PMS    Max. working pressure boiler  6 bar	0
+84,366,399,366,399,388,84,388	Température de départ maxi  T max   Max. flow temperature  120°C	0
+86,398,403,398,403,423,86,423	Tension nominale  Rated voltage  230 V - 50 Hz	0

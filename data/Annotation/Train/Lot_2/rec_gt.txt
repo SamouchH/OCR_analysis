@@ -1,0 +1,308 @@
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_0.jpg	saitair
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_1.jpg	At
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_2.jpg	TEST
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_3.jpg	N° de Certificat : 15
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_4.jpg	Coffret de recyclage à logique programmée
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_5.jpg	CE IP 54
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_6.jpg	saftair VENTILATION
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_7.jpg	Tel : 33 (0)2 35 04 69 15
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_8.jpg	Défaut  alimentation
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_9.jpg	Positiond'attente Pas de défaut 
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_10.jpg	Position sécurité Pas de défaut
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_11.jpg	Commande manuelle
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_12.jpg	Délestage
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_13.jpg	Contactproximité ouvert
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_14.jpg	Défaut arrêt pompier
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_15.jpg	Défaut manquephase1 ou défaut symétrie
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_16.jpg	Défaut manque phase 2
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_17.jpg	Défaut manque phase 3
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_18.jpg	Inversion phases Défaut  symétrie
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_19.jpg	Défaut isolement
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_20.jpg	Défaut Sécurité
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_21.jpg	Défaut  mémoire
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_22.jpg	Cyber Pro 2
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_23.jpg	MODELE : DS1
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_24.jpg	E.ALIM: 400V
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_25.jpg	Intensité I : 6
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_26.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_27.jpg	N° série : 50480.07/14
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_28.jpg	E.TELE : 24/48VcC
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_29.jpg	Mode TELE:
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_30.jpg	E.Réarm. : 24/48 Vcc
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_31.jpg	EA.P : 24/48 Vcc
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_0.jpg	portafeu
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_1.jpg	Téléphone : 02 32 68 37 37
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_2.jpg	NF
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_3.jpg	ASSA ABLOY
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_5.jpg	Portes résistant au feu
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_6.jpg	Ref2VP30
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_7.jpg	Mode:1
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_8.jpg	Référentiel NF277
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_9.jpg	N°2
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_10.jpg	LotBAT-C1431491
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_11.jpg	www.marque-nf.com
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_12.jpg	Ne jamais enlever. peindre ou recouvrir cette plaque
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_13.jpg	Int : 00 33 2 32 68 37 37
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_14.jpg	Télécopie : 02 32 49 47 44
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_15.jpg	Int : 00 33 2 32 49 47 44
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_16.jpg	Sens Feu: R/V
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_17.jpg	Année : 2014
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_18.jpg	El 30
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_19.jpg	E 30
+crop_img/000211_Photo 13-12-2017 16.29.47_crop_5.jpg	Halton
+crop_img/000211_Photo 13-12-2017 16.29.47_crop_6.jpg	Date 23.07.2014
+crop_img/000211_Photo 13-12-2017 16.29.47_crop_7.jpg	Inspector: 896
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_0.jpg	Ref: NSYS3D8620
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_2.jpg	SARLL
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_3.jpg	FR
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_4.jpg	A-868
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_5.jpg	UL
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_6.jpg	US
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_7.jpg	INDUSTRIAL CONTROL PANEL ENCLOSURE
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_8.jpg	LISTED
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_9.jpg	Enclosure Type:1,2,3,3R, 4 4X, 5, 12 and 13
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_10.jpg	To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing bracket kit may be used. When installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm (1/8 - 1/4 in) diameter in thelowest part of the bottom wall.
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_11.jpg	1430
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_12.jpg	17824625
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_13.jpg	Made in France
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_14.jpg	CE
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_0.jpg	Réf: NSYS3D8620
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_1.jpg	Schneider Electric
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_2.jpg	5A
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_3.jpg	UL
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_4.jpg	A-868
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_5.jpg	FR
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_6.jpg	US
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_7.jpg	LISTED
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_8.jpg	INDUSTRIAL CONTROL PANEL ENCLOSURE
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_9.jpg	Encloure Type: 1, 2, 3, 3R, 4 4X, 5, 12 and 13
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_10.jpg	To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing bracket kit may be used. When installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm (1/8 - 1/4 in) diameter in thelowest part of the bottom wall.
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_11.jpg	1430
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_12.jpg	17824625
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_13.jpg	CE
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_14.jpg	Made in France
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_1.jpg	BOON EDAM
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_2.jpg	Powered Pedestrian Door
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_3.jpg	Type  TQAC3407
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_4.jpg	CE
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_5.jpg	Serial nr : 227253-44756
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_6.jpg	Year: 2014
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_0.jpg	Dome Camera
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_1.jpg	Model : ASND20-D16-070
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_2.jpg	System:PAL
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_3.jpg	Lens : 2.8-12mm
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_4.jpg	RoHS
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_5.jpg	Power : DC 12V/AC 24V
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_6.jpg	20140116D16070004
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_7.jpg	CE
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_1.jpg	CE
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_2.jpg	Atech
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_3.jpg	Made in Spain
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_10.jpg	Contrôlé le
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_11.jpg	Année
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_12.jpg	Mois
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_13.jpg	Jour
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_14.jpg	DEKRA
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_15.jpg	EUROACCESS TECHNOLOGY
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_0.jpg	saftair
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_2.jpg	At
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_6.jpg	Délestage
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_9.jpg	Défaut manque phase 1 ou défaut symétrie
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_15.jpg	Défaut mémoire
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_16.jpg	TEST
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_17.jpg	N° de Certificat: 15
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_18.jpg	MODELE: DS1
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_19.jpg	E.ALIM: 400V
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_20.jpg	CEP54
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_21.jpg	Intensite I : 12
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_22.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_23.jpg	N° série : 50480.15/14
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_24.jpg	saftair VENTILATION
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_25.jpg	E.TELE.: 24/48 Vcc
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_26.jpg	Mode TELE. :
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_27.jpg	E.Réarm.: 24/48 Vcc
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_28.jpg	Tél : 33 (0)2 35 04 69 15
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_29.jpg	E.A.P.: 24/48 Vcc
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_30.jpg	Cyber Pro 2
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_31.jpg	Coffret de relayage à logique programmée
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_0.jpg	saftair
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_1.jpg	2
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_2.jpg	Défaut alimentation
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_3.jpg	Position d'attente Pas de défaut
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_4.jpg	Position sécurité Pas de défaut
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_5.jpg	Commande manuelle
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_6.jpg	Délestage
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_7.jpg	Contact proximité ouvert
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_8.jpg	Défaut arrêt pompier
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_9.jpg	Défaut manque phase 1 ou défaut symétrie
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_10.jpg	Défaut manque phase 2
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_15.jpg	Cyber Pro 2
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_16.jpg	TEST
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_18.jpg	N° de Certificat: 15
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_19.jpg	MODELE: DS1
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_20.jpg	E.ALIM:  400V
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_21.jpg	CE IP 54
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_22.jpg	Intensité I : 16.5
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_23.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_24.jpg	N° série : 50480.16/14
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_25.jpg	saftairVENTILATION
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_26.jpg	E.TELE.: 24/48 Vcc
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_27.jpg	Mode TELE. :
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_28.jpg	E.Réarm.: 24/48Vcc
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_29.jpg	Tél : 33 (0)2 35 04 69 15
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_30.jpg	E.A.P:  24/48 Vcc
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_31.jpg	Inversion  phases Défaut  symétrie
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_0.jpg	saitair
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_1.jpg	At
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_2.jpg	TEST
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_3.jpg	N° de Certificat : 15
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_4.jpg	Coffret de recyclage à logique programmée
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_5.jpg	CE IP 54
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_6.jpg	saftair VENTILATION
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_7.jpg	Tel : 33 (0)2 35 04 69 15
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_8.jpg	Défaut  alimentation
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_9.jpg	Positiond'attente Pas de défaut 
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_10.jpg	Position sécurité Pas de défaut
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_11.jpg	Commande manuelle
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_12.jpg	Délestage
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_13.jpg	Contactproximité ouvert
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_14.jpg	Défaut arrêt pompier
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_15.jpg	Défaut manquephase1 ou défaut symétrie
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_16.jpg	Défaut manque phase 2
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_17.jpg	Défaut manque phase 3
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_18.jpg	Inversion phases Défaut  symétrie
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_19.jpg	Défaut isolement
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_20.jpg	Défaut Sécurité
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_21.jpg	Défaut  mémoire
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_22.jpg	Cyber Pro 2
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_23.jpg	MODELE : DS1
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_24.jpg	E.ALIM: 400V
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_25.jpg	Intensité I : 6
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_26.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_27.jpg	N° série : 50480.07/14
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_28.jpg	E.TELE : 24/48VcC
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_29.jpg	Mode TELE:
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_30.jpg	E.Réarm. : 24/48 Vcc
+crop_img/000196_Photo 14-12-2017 10.35.33_crop_31.jpg	EA.P : 24/48 Vcc
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_0.jpg	portafeu
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_1.jpg	Téléphone : 02 32 68 37 37
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_2.jpg	NF
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_3.jpg	ASSA ABLOY
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_5.jpg	Portes résistant au feu
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_6.jpg	Ref2VP30
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_7.jpg	Mode:1
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_8.jpg	Référentiel NF277
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_9.jpg	N°2
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_10.jpg	LotBAT-C1431491
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_11.jpg	www.marque-nf.com
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_12.jpg	Ne jamais enlever. peindre ou recouvrir cette plaque
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_13.jpg	Int : 00 33 2 32 68 37 37
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_14.jpg	Télécopie : 02 32 49 47 44
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_15.jpg	Int : 00 33 2 32 49 47 44
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_16.jpg	Sens Feu: R/V
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_17.jpg	Année : 2014
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_18.jpg	El 30
+crop_img/000197_Photo 14-12-2017 10.42.32_crop_19.jpg	E 30
+crop_img/000211_Photo 13-12-2017 16.29.47_crop_5.jpg	Halton
+crop_img/000211_Photo 13-12-2017 16.29.47_crop_6.jpg	Date 23.07.2014
+crop_img/000211_Photo 13-12-2017 16.29.47_crop_7.jpg	Inspector: 896
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_0.jpg	Ref: NSYS3D8620
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_2.jpg	SARLL
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_3.jpg	FR
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_4.jpg	A-868
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_5.jpg	UL
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_6.jpg	US
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_7.jpg	INDUSTRIAL CONTROL PANEL ENCLOSURE
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_8.jpg	LISTED
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_9.jpg	Enclosure Type:1,2,3,3R, 4 4X, 5, 12 and 13
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_10.jpg	To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing bracket kit may be used. When installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm (1/8 - 1/4 in) diameter in thelowest part of the bottom wall.
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_11.jpg	1430
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_12.jpg	17824625
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_13.jpg	Made in France
+crop_img/000275_Photo 14-12-2017 16.37.35_crop_14.jpg	CE
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_0.jpg	Réf: NSYS3D8620
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_1.jpg	Schneider Electric
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_2.jpg	5A
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_3.jpg	UL
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_4.jpg	A-868
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_5.jpg	FR
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_6.jpg	US
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_7.jpg	LISTED
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_8.jpg	INDUSTRIAL CONTROL PANEL ENCLOSURE
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_9.jpg	Encloure Type: 1, 2, 3, 3R, 4 4X, 5, 12 and 13
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_10.jpg	To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing bracket kit may be used. When installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm (1/8 - 1/4 in) diameter in thelowest part of the bottom wall.
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_11.jpg	1430
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_12.jpg	17824625
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_13.jpg	CE
+crop_img/000290_Photo 14-12-2017 17.43.13_crop_14.jpg	Made in France
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_1.jpg	BOON EDAM
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_2.jpg	Powered Pedestrian Door
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_3.jpg	Type  TQAC3407
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_4.jpg	CE
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_5.jpg	Serial nr : 227253-44756
+crop_img/000293_Photo 15-12-2017 09.32.04_crop_6.jpg	Year: 2014
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_0.jpg	Dome Camera
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_1.jpg	Model : ASND20-D16-070
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_2.jpg	System:PAL
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_3.jpg	Lens : 2.8-12mm
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_4.jpg	RoHS
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_5.jpg	Power : DC 12V/AC 24V
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_6.jpg	20140116D16070004
+crop_img/000304_Photo 15-12-2017 10.39.03_crop_7.jpg	CE
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_1.jpg	CE
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_2.jpg	Atech
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_3.jpg	Made in Spain
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_10.jpg	Contrôlé le
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_11.jpg	Année
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_12.jpg	Mois
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_13.jpg	Jour
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_14.jpg	DEKRA
+crop_img/000308_Photo 15-12-2017 11.15.47_crop_15.jpg	EUROACCESS TECHNOLOGY
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_0.jpg	saftair
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_2.jpg	At
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_6.jpg	Délestage
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_9.jpg	Défaut manque phase 1 ou défaut symétrie
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_15.jpg	Défaut mémoire
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_16.jpg	TEST
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_17.jpg	N° de Certificat: 15
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_18.jpg	MODELE: DS1
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_19.jpg	E.ALIM: 400V
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_20.jpg	CEP54
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_21.jpg	Intensite I : 12
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_22.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_23.jpg	N° série : 50480.15/14
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_24.jpg	saftair VENTILATION
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_25.jpg	E.TELE.: 24/48 Vcc
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_26.jpg	Mode TELE. :
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_27.jpg	E.Réarm.: 24/48 Vcc
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_28.jpg	Tél : 33 (0)2 35 04 69 15
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_29.jpg	E.A.P.: 24/48 Vcc
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_30.jpg	Cyber Pro 2
+crop_img/000311_Photo 15-12-2017 11.25.51_crop_31.jpg	Coffret de relayage à logique programmée
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_0.jpg	saftair
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_1.jpg	2
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_2.jpg	Défaut alimentation
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_3.jpg	Position d'attente Pas de défaut
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_4.jpg	Position sécurité Pas de défaut
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_5.jpg	Commande manuelle
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_6.jpg	Délestage
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_7.jpg	Contact proximité ouvert
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_8.jpg	Défaut arrêt pompier
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_9.jpg	Défaut manque phase 1 ou défaut symétrie
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_10.jpg	Défaut manque phase 2
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_15.jpg	Cyber Pro 2
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_16.jpg	TEST
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_18.jpg	N° de Certificat: 15
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_19.jpg	MODELE: DS1
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_20.jpg	E.ALIM:  400V
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_21.jpg	CE IP 54
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_22.jpg	Intensité I : 16.5
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_23.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_24.jpg	N° série : 50480.16/14
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_25.jpg	saftairVENTILATION
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_26.jpg	E.TELE.: 24/48 Vcc
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_27.jpg	Mode TELE. :
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_28.jpg	E.Réarm.: 24/48Vcc
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_29.jpg	Tél : 33 (0)2 35 04 69 15
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_30.jpg	E.A.P:  24/48 Vcc
+crop_img/000313_Photo 15-12-2017 11.29.25_crop_31.jpg	Inversion  phases Défaut  symétrie

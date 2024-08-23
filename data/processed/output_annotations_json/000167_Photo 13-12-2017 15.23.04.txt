@@ -1,0 +1,548 @@
+[
+  {
+    "transcription": "Caisson F400/120",
+    "points": [
+      [
+        245,
+        228
+      ],
+      [
+        405,
+        232
+      ],
+      [
+        404,
+        255
+      ],
+      [
+        244,
+        250
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        440,
+        230
+      ],
+      [
+        565,
+        230
+      ],
+      [
+        565,
+        277
+      ],
+      [
+        440,
+        277
+      ]
+    ]
+  },
+  {
+    "transcription": "N°ARC :  50480",
+    "points": [
+      [
+        294,
+        277
+      ],
+      [
+        363,
+        280
+      ],
+      [
+        363,
+        320
+      ],
+      [
+        292,
+        314
+      ]
+    ]
+  },
+  {
+    "transcription": "Siège Social et Usine 15 rue du levant 76590 TORCY-LE-PETIT",
+    "points": [
+      [
+        443,
+        279
+      ],
+      [
+        556,
+        281
+      ],
+      [
+        566,
+        331
+      ],
+      [
+        435,
+        330
+      ]
+    ]
+  },
+  {
+    "transcription": "Repère : VED 03",
+    "points": [
+      [
+        296,
+        331
+      ],
+      [
+        363,
+        331
+      ],
+      [
+        363,
+        361
+      ],
+      [
+        296,
+        361
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        456,
+        344
+      ],
+      [
+        535,
+        344
+      ],
+      [
+        535,
+        407
+      ],
+      [
+        456,
+        407
+      ]
+    ]
+  },
+  {
+    "transcription": "3",
+    "points": [
+      [
+        224,
+        402
+      ],
+      [
+        235,
+        408
+      ],
+      [
+        229,
+        419
+      ],
+      [
+        218,
+        413
+      ]
+    ]
+  },
+  {
+    "transcription": "FABRIQUE EN FRANCE",
+    "points": [
+      [
+        243,
+        543
+      ],
+      [
+        390,
+        547
+      ],
+      [
+        389,
+        564
+      ],
+      [
+        243,
+        560
+      ]
+    ]
+  },
+  {
+    "transcription": "Poids (kg):185",
+    "points": [
+      [
+        446,
+        548
+      ],
+      [
+        542,
+        551
+      ],
+      [
+        541,
+        570
+      ],
+      [
+        445,
+        566
+      ]
+    ]
+  },
+  {
+    "transcription": "N° de fabrication  2014-504803",
+    "points": [
+      [
+        243,
+        559
+      ],
+      [
+        484,
+        564
+      ],
+      [
+        486,
+        579
+      ],
+      [
+        243,
+        573
+      ]
+    ]
+  },
+  {
+    "transcription": "SENS DE ROTATION MOTEUR",
+    "points": [
+      [
+        249,
+        603
+      ],
+      [
+        530,
+        608
+      ],
+      [
+        529,
+        631
+      ],
+      [
+        248,
+        625
+      ]
+    ]
+  },
+  {
+    "transcription": "Servitude Droite",
+    "points": [
+      [
+        242,
+        881
+      ],
+      [
+        380,
+        884
+      ],
+      [
+        380,
+        907
+      ],
+      [
+        242,
+        904
+      ]
+    ]
+  },
+  {
+    "transcription": "SAFTAIR VENTILATION",
+    "points": [
+      [
+        254,
+        915
+      ],
+      [
+        377,
+        915
+      ],
+      [
+        377,
+        928
+      ],
+      [
+        254,
+        928
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        254,
+        928
+      ],
+      [
+        314,
+        928
+      ],
+      [
+        314,
+        972
+      ],
+      [
+        254,
+        972
+      ]
+    ]
+  },
+  {
+    "transcription": "15 rue du levant 76590 TOCRY-LE-PETIT",
+    "points": [
+      [
+        378,
+        915
+      ],
+      [
+        549,
+        915
+      ],
+      [
+        549,
+        931
+      ],
+      [
+        378,
+        931
+      ]
+    ]
+  },
+  {
+    "transcription": "DOF R 05",
+    "points": [
+      [
+        346,
+        936
+      ],
+      [
+        402,
+        936
+      ],
+      [
+        402,
+        971
+      ],
+      [
+        346,
+        971
+      ]
+    ]
+  },
+  {
+    "transcription": "1812",
+    "points": [
+      [
+        268,
+        964
+      ],
+      [
+        306,
+        967
+      ],
+      [
+        305,
+        982
+      ],
+      [
+        267,
+        978
+      ]
+    ]
+  },
+  {
+    "transcription": "NF EN 12101 3 (V2002)",
+    "points": [
+      [
+        429,
+        957
+      ],
+      [
+        543,
+        961
+      ],
+      [
+        543,
+        976
+      ],
+      [
+        429,
+        972
+      ]
+    ]
+  },
+  {
+    "transcription": "VENTILATEUR EXTRACTEUR DE FUMEES ET DE CHALEUR",
+    "points": [
+      [
+        258,
+        981
+      ],
+      [
+        550,
+        981
+      ],
+      [
+        550,
+        994
+      ],
+      [
+        258,
+        994
+      ]
+    ]
+  },
+  {
+    "transcription": "SECURITE INCENDIE /FIRE SAFETY",
+    "points": [
+      [
+        300,
+        1003
+      ],
+      [
+        479,
+        1005
+      ],
+      [
+        479,
+        1020
+      ],
+      [
+        300,
+        1017
+      ]
+    ]
+  },
+  {
+    "transcription": "www.saftair com",
+    "points": [
+      [
+        455,
+        332
+      ],
+      [
+        541,
+        334
+      ],
+      [
+        542,
+        343
+      ],
+      [
+        451,
+        343
+      ]
+    ]
+  },
+  {
+    "transcription": "Type : CAISSON DOF 355 R F400/120 HL 2P TRI 4,0KW",
+    "points": [
+      [
+        239,
+        379
+      ],
+      [
+        442,
+        380
+      ],
+      [
+        442,
+        435
+      ],
+      [
+        238,
+        433
+      ]
+    ]
+  },
+  {
+    "transcription": "Description du produit : 1 VIT-P MOTEUR : 4.O Kw-Int MOTEUR : 7.72 A - V rot : 3000 tr/min -- Serv: D-Debit:8671m3/h-P.dispo : 850 Pa-VTurb : 2689tr/min",
+    "points": [
+      [
+        240,
+        435
+      ],
+      [
+        532,
+        436
+      ],
+      [
+        534,
+        521
+      ],
+      [
+        237,
+        517
+      ]
+    ]
+  },
+  {
+    "transcription": "POWERED SMOKE AND HEAT EXHAUST VENTILATOR",
+    "points": [
+      [
+        267,
+        992
+      ],
+      [
+        539,
+        995
+      ],
+      [
+        541,
+        1008
+      ],
+      [
+        265,
+        1004
+      ]
+    ]
+  },
+  {
+    "transcription": "Carectéristiques essentielles et Performances   Résistanceau feu / Fire resistance    F400    Paramètres de performance (en désenfumage)  +/- 10%  Preformance parameters  Durabilité de la fiabilitéopérationnelle  Moteur Classe F   Sustainability of operational reliability  Echuaffement B",
+    "points": [
+      [
+        246,
+        1023
+      ],
+      [
+        540,
+        1023
+      ],
+      [
+        540,
+        1103
+      ],
+      [
+        246,
+        1103
+      ]
+    ]
+  },
+  {
+    "transcription": "Performances Non Déterminées / Non Determined Performances  Temps de réponse/ Time to get  the product at operation level  Fiabilité opérationnelle / Operational  reliability  Efficacité de l'extraction des fumées / gaz chauds  Extraction efficiency of fumes / hot gases Capcité d'ouverture sous condition d'environnement   Opening capacity under environmental conditions",
+    "points": [
+      [
+        248,
+        1102
+      ],
+      [
+        538,
+        1108
+      ],
+      [
+        536,
+        1167
+      ],
+      [
+        250,
+        1161
+      ]
+    ]
+  }
+]

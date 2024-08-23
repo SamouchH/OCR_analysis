@@ -1,0 +1,101 @@
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_0.jpg	60040683  RECTILYS 900 IM
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_1.jpg	2 Pôles - 380 Watts
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_2.jpg	230 Volts - 50 Hertz
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_3.jpg	3 Vitesses
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_4.jpg	N° Série : 2017411216 003
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_5.jpg	CE
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_6.jpg	FABRIQUE EN FRANCE
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_7.jpg	France Air
+crop_img/002118_Photo 05-01-2018 10.31.36_crop_8.jpg	B.P 406-01704 BEYNOST Tél : 0 820 820 626
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_1.jpg	N° Etiquette : 001 /1
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_2.jpg	N° Cbe : 32647
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_3.jpg	HEXAPASS
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_4.jpg	VC ALV.10 MM OPAL
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_5.jpg	100x14
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_6.jpg	Code Article :  CR 1000140 PO
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_7.jpg	Traçabilité : 085777
+crop_img/002116_Photo 05-01-2018 10.28.34_crop_8.jpg	HEXADOME
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_0.jpg	SARLL
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_1.jpg	A-868
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_2.jpg	FR
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_3.jpg	INDUSTRIAL CONTROL PANEL ENCLOSURE
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_4.jpg	LISTED
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_5.jpg	Enclosure Type: 1, 2, 3, 3R, 4 4X, 5,12 and 13.
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_6.jpg	1437
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_7.jpg	17900161
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_8.jpg	Schneider Electric
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_9.jpg	Réf : NSYS3D7525
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_11.jpg	Made In France
+crop_img/001851_Photo 26-12-2017 16.00.47_crop_12.jpg	CE
+crop_img/001853_Photo 26-12-2017 16.14.02_crop_0.jpg	AIRAP
+crop_img/001853_Photo 26-12-2017 16.14.02_crop_1.jpg	Moteur : WEG
+crop_img/001853_Photo 26-12-2017 16.14.02_crop_2.jpg	Année de fabrication 2014
+crop_img/001853_Photo 26-12-2017 16.14.02_crop_3.jpg	N° de série 59169
+crop_img/001853_Photo 26-12-2017 16.14.02_crop_4.jpg	N° d'appareil : 08
+crop_img/001853_Photo 26-12-2017 16.14.02_crop_5.jpg	Modèle :  HELICODE HCC 900 - 3-22° - B
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_0.jpg	CE
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_1.jpg	KSB b
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_2.jpg	Commande : 9972771896
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_3.jpg	SIC.2B VP 4.2.4 V
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_4.jpg	Pos.: 100
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_5.jpg	N° série  2014w41
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_6.jpg	Type de pompe Movitec V004/04-84
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_7.jpg	Pression regulée   5.7bar
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_8.jpg	PM   6.3 bar
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_9.jpg	Puissance par moteur P2  2x0.55
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_10.jpg	Tension de service 400V  50HZ
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_11.jpg	Pression aspiration 3 bar
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_12.jpg	Réservoir:    Prégonflage   5.0 bar  Volume 8 l
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_13.jpg	Tension de commande 230V 50HZ
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_14.jpg	Hauteur à l'aspiration  m
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_15.jpg	courant nominal du moteur  1.3 A
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_16.jpg	Pression de service max du surpresseur  16.0  bar
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_17.jpg	Pression de service 16 bar
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_18.jpg	Schéma électrique BD 708 568
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_19.jpg	Lire la notice d'instruction avant mise en service
+crop_img/001855_Photo 26-12-2017 16.31.56_crop_21.jpg	Débit max surpresseur  7.0  m3/h
+crop_img/002062_Photo 03-01-2018 16.01_crop_0.jpg	CENTRALE DE DETECTION MX42 A
+crop_img/002062_Photo 03-01-2018 16.01_crop_1.jpg	2 voles
+crop_img/002062_Photo 03-01-2018 16.01_crop_2.jpg	50/60 Hz
+crop_img/002062_Photo 03-01-2018 16.01_crop_3.jpg	50/60 Hz
+crop_img/002062_Photo 03-01-2018 16.01_crop_4.jpg	DATE CODE 1360
+crop_img/002062_Photo 03-01-2018 16.01_crop_5.jpg	N° DE SERIE 015
+crop_img/002062_Photo 03-01-2018 16.01_crop_6.jpg	0.63 A 85 VA
+crop_img/002062_Photo 03-01-2018 16.01_crop_7.jpg	1.25A85VA
+crop_img/002062_Photo 03-01-2018 16.01_crop_8.jpg	3
+crop_img/002062_Photo 03-01-2018 16.01_crop_9.jpg	4 voles
+crop_img/002062_Photo 03-01-2018 16.01_crop_10.jpg	OLDHAM  ZIEST  62 ARRAS
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_0.jpg	WATS
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_1.jpg	98003)
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_3.jpg	Factory Precharge  Precarica di Fabbrice  Prégonflage de Maison  2 bar
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_4.jpg	Max Working Pressure Press. Max di Esercizio Pression maxi d'exercice  
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_5.jpg	Set Precharge Precarica impostata  Prégonflage ajusté
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_6.jpg	Year of Production  Anno di Costruzione Annee de Fabrication  A / 2007 
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_7.jpg	20013
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_8.jpg	Capacity Litre Capacita Litri Capacités Litres  150
+crop_img/002079_Photo 04-01-2018 15.19.19_crop_10.jpg	Family of vessel / 130CAL-PRO
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_0.jpg	Salmson
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_2.jpg	Type  DIL 408 - 22/4 
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_3.jpg	N° art 2034533
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_4.jpg	N° série 877 305 16569 0902
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_5.jpg	Made in EU
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_6.jpg	CE
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_7.jpg	T min 20°C
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_8.jpg	T max  140 °C
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_9.jpg	P 4 kW
+crop_img/002081_Photo 04-01-2018 15.31.10r_crop_10.jpg	n 1450 min -1  50 Hz
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_0.jpg	VIESSMANN
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_1.jpg	VITOPLEX 100
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_4.jpg	Intensité nominale absorbée maxi   Max. rated current consumption  6A
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_5.jpg	CE-0035
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_6.jpg	SOLO 10791 M
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_7.jpg	5273811
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_8.jpg	N° de fabrication  7143290300146 Index: 109 Serial number
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_11.jpg	Pas pour CH, DE, SE :  Gamme de puissance fioul/gaz P0  Not for CH, DE, SE : Output for oil/gas  1750 - 1925 kW
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_13.jpg	Pression de service maxi chaudière   PMS    Max. working pressure boiler  6 bar
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_14.jpg	Température de départ maxi  T max   Max. flow temperature  120°C
+crop_img/002096_Photo 04-01-2018 16.55.04_crop_15.jpg	Tension nominale  Rated voltage  230 V - 50 Hz
+crop_img/002073_Photo 04-01-2018 15.08.40_crop_0.jpg	CE
+crop_img/002073_Photo 04-01-2018 15.08.40_crop_1.jpg	permo TRAITEMENT DES EAUX
+crop_img/002073_Photo 04-01-2018 15.08.40_crop_2.jpg	Agence:
+crop_img/002073_Photo 04-01-2018 15.08.40_crop_3.jpg	Tel:

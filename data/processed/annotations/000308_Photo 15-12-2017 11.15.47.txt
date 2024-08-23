@@ -1,0 +1,16 @@
+382,598,571,604,577,662,379,656	Datos de la Maquina :  BMU Data : Information de la machine :	0
+614,600,678,604,675,654,611,649	CE	0
+305,625,358,631,357,649,303,644	Atech	0
+608,648,683,651,685,665,608,663	Made in Spain	0
+259,661,349,666,356,709,258,705	Modelo: A-15 Model Modèle:	0
+442,669,663,673,660,717,440,711	Carga maxima de la Cesta: 240 Kg Maximum Cradle load :  Charge maximale nacelle	0
+262,706,386,712,377,752,257,747	N° de serle: M3426 Serial no.: Numéro de série:	0
+439,715,638,719,637,761,438,756	Carga maxima del Polipasto:  - - Auxiliari Hoist maximun load :  Charge maximale treuil auxiliaire :	0
+261,748,419,752,419,799,259,792	Año de fabricacion: 2014 Fabrication year: Année de fabnication:	0
+442,756,638,761,637,804,438,798	Numero maximo de Personas :  2 Maximum number of persons: Nombre de personnes maxi	0
+412,852,506,856,504,879,411,874	Contrôlé le	0
+423,890,481,894,480,911,422,908	Année	0
+393,919,422,919,422,931,393,931	Mois	0
+496,918,520,922,517,937,493,932	Jour	0
+400,984,512,988,511,1022,399,1017	DEKRA	0
+254,642,360,642,360,658,254,658	EUROACCESS TECHNOLOGY	0

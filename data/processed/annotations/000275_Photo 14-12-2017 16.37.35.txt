@@ -1,0 +1,15 @@
+637,146,914,126,917,159,639,180	Ref: NSYS3D8620	0
+391,159,620,149,631,248,394,268	Schneider Electric	0
+942,168,1050,161,1051,190,944,196	SARLL	0
+997,243,1047,243,1047,281,997,281	FR	0
+837,255,951,248,953,282,839,288	A-868	0
+423,291,465,291,465,323,423,323	UL	0
+479,306,503,306,503,322,479,322	US	0
+621,311,960,300,960,323,622,334	INDUSTRIAL CONTROL PANEL ENCLOSURE	0
+424,341,489,338,490,358,425,362	LISTED	0
+610,333,985,320,986,343,611,356	Enclosure Type:1,2,3,3R, 4 4X, 5, 12 and 13	0
+414,363,941,347,960,413,422,427	To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing bracket kit may be used. When installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm (1/8 - 1/4 in) diameter in thelowest part of the bottom wall.	0
+928,417,996,417,996,448,928,448	1430	0
+861,447,994,444,995,472,862,475	17824625	0
+825,474,1000,474,1000,498,825,498	Made in France	0
+751,452,822,452,822,500,751,500	CE	0

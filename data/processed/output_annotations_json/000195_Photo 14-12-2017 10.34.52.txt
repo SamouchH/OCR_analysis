@@ -1,0 +1,422 @@
+[
+  {
+    "transcription": "ATTENTION /WARNING",
+    "points": [
+      [
+        314,
+        467
+      ],
+      [
+        738,
+        473
+      ],
+      [
+        737,
+        500
+      ],
+      [
+        314,
+        493
+      ]
+    ]
+  },
+  {
+    "transcription": "COUPER L'ALIMENTATION ELECTRIQUE AVANT TOUTE INTERVENTION",
+    "points": [
+      [
+        288,
+        705
+      ],
+      [
+        750,
+        713
+      ],
+      [
+        749,
+        732
+      ],
+      [
+        288,
+        724
+      ]
+    ]
+  },
+  {
+    "transcription": "SHUT DOWN POWER SUPPLY BEFORE ANY INTERVENTION",
+    "points": [
+      [
+        323,
+        723
+      ],
+      [
+        713,
+        729
+      ],
+      [
+        713,
+        748
+      ],
+      [
+        323,
+        741
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        479,
+        746
+      ],
+      [
+        559,
+        750
+      ],
+      [
+        557,
+        779
+      ],
+      [
+        478,
+        776
+      ]
+    ]
+  },
+  {
+    "transcription": "SRYETIQDANGER",
+    "points": [
+      [
+        675,
+        771
+      ],
+      [
+        752,
+        771
+      ],
+      [
+        752,
+        784
+      ],
+      [
+        675,
+        784
+      ]
+    ]
+  },
+  {
+    "transcription": "Ventilateur Tertiaire Poulie",
+    "points": [
+      [
+        352,
+        803
+      ],
+      [
+        531,
+        805
+      ],
+      [
+        531,
+        824
+      ],
+      [
+        352,
+        821
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair",
+    "points": [
+      [
+        551,
+        801
+      ],
+      [
+        677,
+        804
+      ],
+      [
+        678,
+        849
+      ],
+      [
+        550,
+        842
+      ]
+    ]
+  },
+  {
+    "transcription": "Siege Social et Usine",
+    "points": [
+      [
+        557,
+        846
+      ],
+      [
+        667,
+        851
+      ],
+      [
+        666,
+        866
+      ],
+      [
+        557,
+        861
+      ]
+    ]
+  },
+  {
+    "transcription": "N° ARC : 50480",
+    "points": [
+      [
+        410,
+        848
+      ],
+      [
+        482,
+        849
+      ],
+      [
+        477,
+        879
+      ],
+      [
+        414,
+        877
+      ]
+    ]
+  },
+  {
+    "transcription": "15 rue du levant",
+    "points": [
+      [
+        569,
+        863
+      ],
+      [
+        655,
+        864
+      ],
+      [
+        654,
+        879
+      ],
+      [
+        569,
+        877
+      ]
+    ]
+  },
+  {
+    "transcription": "76590 TORCY-LE-PET",
+    "points": [
+      [
+        553,
+        874
+      ],
+      [
+        672,
+        879
+      ],
+      [
+        672,
+        894
+      ],
+      [
+        552,
+        889
+      ]
+    ]
+  },
+  {
+    "transcription": "Repère : VSD 02",
+    "points": [
+      [
+        410,
+        891
+      ],
+      [
+        476,
+        892
+      ],
+      [
+        473,
+        919
+      ],
+      [
+        411,
+        916
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        569,
+        908
+      ],
+      [
+        648,
+        908
+      ],
+      [
+        648,
+        964
+      ],
+      [
+        569,
+        964
+      ]
+    ]
+  },
+  {
+    "transcription": "FABRIQUE EN FRANCE",
+    "points": [
+      [
+        352,
+        1073
+      ],
+      [
+        497,
+        1079
+      ],
+      [
+        497,
+        1094
+      ],
+      [
+        351,
+        1088
+      ]
+    ]
+  },
+  {
+    "transcription": "N° de fabrication  2014-5048074",
+    "points": [
+      [
+        352,
+        1086
+      ],
+      [
+        604,
+        1095
+      ],
+      [
+        603,
+        1108
+      ],
+      [
+        351,
+        1101
+      ]
+    ]
+  },
+  {
+    "transcription": "Poids (kg) : 93.5",
+    "points": [
+      [
+        548,
+        1078
+      ],
+      [
+        652,
+        1081
+      ],
+      [
+        651,
+        1099
+      ],
+      [
+        547,
+        1096
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        224,
+        202
+      ],
+      [
+        821,
+        202
+      ],
+      [
+        821,
+        429
+      ],
+      [
+        224,
+        429
+      ]
+    ]
+  },
+  {
+    "transcription": "www.saftair.com",
+    "points": [
+      [
+        567,
+        892
+      ],
+      [
+        652,
+        892
+      ],
+      [
+        652,
+        905
+      ],
+      [
+        567,
+        905
+      ]
+    ]
+  },
+  {
+    "transcription": "Type : CAISSON CT20/12 HL 4P TRI 2,2KW",
+    "points": [
+      [
+        354,
+        930
+      ],
+      [
+        503,
+        930
+      ],
+      [
+        503,
+        977
+      ],
+      [
+        354,
+        977
+      ]
+    ]
+  },
+  {
+    "transcription": "Description du produit :1 Vitesse Triphas.-P mot:2.2 Kw Int mot : 4.64 A-V Rot : 1500tr/min-Orient : HL-ServD-Debit:8400m3/h-P.dispo:235Pa-VTurb : 958tr/min",
+    "points": [
+      [
+        351,
+        978
+      ],
+      [
+        615,
+        978
+      ],
+      [
+        615,
+        1067
+      ],
+      [
+        351,
+        1067
+      ]
+    ]
+  }
+]

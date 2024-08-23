@@ -1,0 +1,20 @@
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000196_Photo 14-12-2017 10.35.33.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000197_Photo 14-12-2017 10.42.32.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000211_Photo 13-12-2017 16.29.47.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000275_Photo 14-12-2017 16.37.35.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000290_Photo 14-12-2017 17.43.13.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000293_Photo 15-12-2017 09.32.04.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000304_Photo 15-12-2017 10.39.03.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000308_Photo 15-12-2017 11.15.47.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000311_Photo 15-12-2017 11.25.51.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_2\000313_Photo 15-12-2017 11.29.25.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000196_Photo 14-12-2017 10.35.33.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000197_Photo 14-12-2017 10.42.32.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000211_Photo 13-12-2017 16.29.47.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000275_Photo 14-12-2017 16.37.35.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000290_Photo 14-12-2017 17.43.13.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000293_Photo 15-12-2017 09.32.04.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000304_Photo 15-12-2017 10.39.03.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000308_Photo 15-12-2017 11.15.47.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000311_Photo 15-12-2017 11.25.51.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\PPOCR_Project\dataset\Annotation\Train\Lot_2\000313_Photo 15-12-2017 11.29.25.jpg	1

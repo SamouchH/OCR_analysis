@@ -1,0 +1,338 @@
+[
+  {
+    "transcription": "saftairVENTILATION",
+    "points": [
+      [
+        260,
+        219
+      ],
+      [
+        737,
+        230
+      ],
+      [
+        728,
+        416
+      ],
+      [
+        249,
+        400
+      ]
+    ]
+  },
+  {
+    "transcription": "ATTENTION /WARNING",
+    "points": [
+      [
+        314,
+        422
+      ],
+      [
+        660,
+        438
+      ],
+      [
+        659,
+        460
+      ],
+      [
+        313,
+        445
+      ]
+    ]
+  },
+  {
+    "transcription": "COUPER L'ALIMENTATION ELECTRIQUE AVANT TOUTE INTERVENTION",
+    "points": [
+      [
+        302,
+        605
+      ],
+      [
+        671,
+        628
+      ],
+      [
+        670,
+        646
+      ],
+      [
+        301,
+        622
+      ]
+    ]
+  },
+  {
+    "transcription": "SHUT DOWN POWER SUPPLY BEFORE ANY INTERVENTION",
+    "points": [
+      [
+        328,
+        618
+      ],
+      [
+        644,
+        639
+      ],
+      [
+        643,
+        658
+      ],
+      [
+        327,
+        637
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        449,
+        647
+      ],
+      [
+        520,
+        647
+      ],
+      [
+        520,
+        675
+      ],
+      [
+        449,
+        675
+      ]
+    ]
+  },
+  {
+    "transcription": "Ventilateur Tertiaire Poulie",
+    "points": [
+      [
+        366,
+        681
+      ],
+      [
+        512,
+        693
+      ],
+      [
+        513,
+        710
+      ],
+      [
+        365,
+        698
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        522,
+        690
+      ],
+      [
+        625,
+        697
+      ],
+      [
+        623,
+        730
+      ],
+      [
+        519,
+        723
+      ]
+    ]
+  },
+  {
+    "transcription": "N° ARC : 50480",
+    "points": [
+      [
+        412,
+        717
+      ],
+      [
+        461,
+        722
+      ],
+      [
+        464,
+        747
+      ],
+      [
+        409,
+        741
+      ]
+    ]
+  },
+  {
+    "transcription": "Repère : VSD 07",
+    "points": [
+      [
+        411,
+        749
+      ],
+      [
+        468,
+        749
+      ],
+      [
+        468,
+        777
+      ],
+      [
+        411,
+        777
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        540,
+        768
+      ],
+      [
+        603,
+        774
+      ],
+      [
+        599,
+        813
+      ],
+      [
+        536,
+        807
+      ]
+    ]
+  },
+  {
+    "transcription": "Siege Social et Usine 15 rue du levant 76590 TORCY-LE-PETIT www.saltair.com",
+    "points": [
+      [
+        524,
+        728
+      ],
+      [
+        626,
+        728
+      ],
+      [
+        626,
+        770
+      ],
+      [
+        524,
+        770
+      ]
+    ]
+  },
+  {
+    "transcription": "FABRIQUE EN FRANCE",
+    "points": [
+      [
+        372,
+        880
+      ],
+      [
+        484,
+        890
+      ],
+      [
+        484,
+        901
+      ],
+      [
+        369,
+        891
+      ]
+    ]
+  },
+  {
+    "transcription": "N° de fabrication 2014-50480118",
+    "points": [
+      [
+        370,
+        901
+      ],
+      [
+        572,
+        918
+      ],
+      [
+        572,
+        909
+      ],
+      [
+        370,
+        889
+      ]
+    ]
+  },
+  {
+    "transcription": "Poids (kg):38.5",
+    "points": [
+      [
+        526,
+        896
+      ],
+      [
+        605,
+        904
+      ],
+      [
+        604,
+        913
+      ],
+      [
+        525,
+        905
+      ]
+    ]
+  },
+  {
+    "transcription": "Description du produit : 1 Vitesse Triphas. - P.mot : 0.37Kw-Int mot : 1.08 A-V Rot : 1500tr/min-Orient : HL - Serv.D - Debit : 911m3/h-P.dispo : 75Pa-VTurb 809tr/min",
+    "points": [
+      [
+        370,
+        814
+      ],
+      [
+        580,
+        828
+      ],
+      [
+        575,
+        889
+      ],
+      [
+        371,
+        872
+      ]
+    ]
+  },
+  {
+    "transcription": "Type : CAISSON CT 10/07 HL 4P TRI 0.37KW",
+    "points": [
+      [
+        367,
+        812
+      ],
+      [
+        481,
+        819
+      ],
+      [
+        483,
+        786
+      ],
+      [
+        368,
+        778
+      ]
+    ]
+  }
+]

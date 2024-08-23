@@ -1,0 +1,10 @@
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000195_Photo 14-12-2017 10.34.52.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000090_Photo 11-12-2017 11.43.58.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000096_Photo 11-12-2017 11.56.58.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000097_Photo 11-12-2017 11.59.19.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000114_Photo 26-12-2017 13.44.59.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000120_Photo 26-12-2017 15.20.28.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000161_Photo 13-12-2017 15.02.36.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000165_Photo 13-12-2017 15.12.50.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000166_Photo 13-12-2017 15.16.41.jpg	1
+C:\Users\samou\OneDrive\Documents\GitHub\EAST OCR\dataset\Annotation\Train\Lot_1\000167_Photo 13-12-2017 15.23.04.jpg	1

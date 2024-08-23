@@ -1,0 +1,317 @@
+[
+  {
+    "transcription": "saftairVENTILATION",
+    "points": [
+      [
+        315,
+        440
+      ],
+      [
+        701,
+        446
+      ],
+      [
+        693,
+        588
+      ],
+      [
+        313,
+        577
+      ]
+    ]
+  },
+  {
+    "transcription": "ATTENTION /WARNING",
+    "points": [
+      [
+        357,
+        599
+      ],
+      [
+        652,
+        603
+      ],
+      [
+        652,
+        625
+      ],
+      [
+        357,
+        621
+      ]
+    ]
+  },
+  {
+    "transcription": "COUPERLAUMENTATIONELECTRIQUEAVANTTOUTE INTERVENTION",
+    "points": [
+      [
+        344,
+        759
+      ],
+      [
+        667,
+        767
+      ],
+      [
+        667,
+        781
+      ],
+      [
+        343,
+        773
+      ]
+    ]
+  },
+  {
+    "transcription": "SHUT DOWN POWER SUPPLYBEFOREANYINTERVENTIONE",
+    "points": [
+      [
+        368,
+        771
+      ],
+      [
+        642,
+        776
+      ],
+      [
+        642,
+        791
+      ],
+      [
+        368,
+        785
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        477,
+        791
+      ],
+      [
+        534,
+        791
+      ],
+      [
+        534,
+        811
+      ],
+      [
+        477,
+        811
+      ]
+    ]
+  },
+  {
+    "transcription": "Ventilateur Tertiaire Poulie",
+    "points": [
+      [
+        387,
+        829
+      ],
+      [
+        515,
+        829
+      ],
+      [
+        515,
+        846
+      ],
+      [
+        387,
+        846
+      ]
+    ]
+  },
+  {
+    "transcription": "saftair VENTILATION",
+    "points": [
+      [
+        528,
+        826
+      ],
+      [
+        622,
+        830
+      ],
+      [
+        621,
+        860
+      ],
+      [
+        525,
+        858
+      ]
+    ]
+  },
+  {
+    "transcription": "N° ARC ; 50480",
+    "points": [
+      [
+        427,
+        850
+      ],
+      [
+        479,
+        854
+      ],
+      [
+        476,
+        886
+      ],
+      [
+        424,
+        882
+      ]
+    ]
+  },
+  {
+    "transcription": "Repère :  VSD 08",
+    "points": [
+      [
+        428,
+        885
+      ],
+      [
+        479,
+        885
+      ],
+      [
+        479,
+        909
+      ],
+      [
+        428,
+        909
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        543,
+        894
+      ],
+      [
+        600,
+        898
+      ],
+      [
+        597,
+        937
+      ],
+      [
+        540,
+        933
+      ]
+    ]
+  },
+  {
+    "transcription": "ption du produit",
+    "points": [
+      [
+        420,
+        949
+      ],
+      [
+        489,
+        949
+      ],
+      [
+        489,
+        963
+      ],
+      [
+        420,
+        963
+      ]
+    ]
+  },
+  {
+    "transcription": "Poids (kg):385",
+    "points": [
+      [
+        538,
+        1018
+      ],
+      [
+        607,
+        1020
+      ],
+      [
+        607,
+        1032
+      ],
+      [
+        538,
+        1028
+      ]
+    ]
+  },
+  {
+    "transcription": "Type : CAISSON CT  10/07  HL  4P TRI 0.37KW",
+    "points": [
+      [
+        392,
+        915
+      ],
+      [
+        489,
+        919
+      ],
+      [
+        490,
+        950
+      ],
+      [
+        394,
+        948
+      ]
+    ]
+  },
+  {
+    "transcription": "N° de fabrication   2014-50480129",
+    "points": [
+      [
+        392,
+        1024
+      ],
+      [
+        579,
+        1032
+      ],
+      [
+        579,
+        1042
+      ],
+      [
+        392,
+        1035
+      ]
+    ]
+  },
+  {
+    "transcription": "FABRIQUE EN FRANCE",
+    "points": [
+      [
+        392,
+        1014
+      ],
+      [
+        499,
+        1019
+      ],
+      [
+        498,
+        1029
+      ],
+      [
+        392,
+        1023
+      ]
+    ]
+  }
+]

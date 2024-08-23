@@ -1,0 +1,176 @@
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_0.jpg	ATTENTION /WARNING
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_1.jpg	COUPER L'ALIMENTATION ELECTRIQUE AVANT TOUTE INTERVENTION
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_2.jpg	SHUT DOWN POWER SUPPLY BEFORE ANY INTERVENTION
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_3.jpg	saftair VENTILATION
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_4.jpg	SRYETIQDANGER
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_5.jpg	Ventilateur Tertiaire Poulie
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_6.jpg	saftair
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_7.jpg	Siege Social et Usine
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_8.jpg	N° ARC : 50480
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_9.jpg	15 rue du levant
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_10.jpg	76590 TORCY-LE-PET
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_11.jpg	Repère : VSD 02
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_12.jpg	CE
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_13.jpg	FABRIQUE EN FRANCE
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_14.jpg	N° de fabrication  2014-5048074
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_15.jpg	Poids (kg) : 93.5
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_16.jpg	saftair VENTILATION
+crop_img/000195_Photo 14-12-2017 10.34.52_crop_17.jpg	www.saftair.com
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_0.jpg	P8.7kW
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_1.jpg	nmin 380.min-1
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_2.jpg	nmax 1455min-1
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_3.jpg	CE
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_4.jpg	Salmson
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_6.jpg	N°art : 2106741
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_7.jpg	N° série : 14w2221030287  0001
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_8.jpg	PF>=0.91
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_9.jpg	MH >0.10
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_10.jpg	P 16bar
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_11.jpg	50/60Hz 330 V 400 A 13.9
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_12.jpg	P8.7kW
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_13.jpg	380.min
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_14.jpg	nma1455nin
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_15.jpg	3)
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_16.jpg	falmson
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_17.jpg	PpDIE410-25/75-2G
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_18.jpg	N"art-2106741
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_19.jpg	14w22210302870003
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_20.jpg	PF20.97
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_21.jpg	M0.10
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_22.jpg	P16ba
+crop_img/000090_Photo 11-12-2017 11.43.58_crop_23.jpg	30  
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_0.jpg	PARK TANKS
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_1.jpg	RT-1354-A9
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_2.jpg	13X54
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_3.jpg	CE
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_4.jpg	WITH PE INNER SHELL
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_5.jpg	al nr 1401 366 46
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_6.jpg	Manufacturing year 2014
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_7.jpg	MADE IN BELGIUM
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_8.jpg	EUROTROL
+crop_img/000096_Photo 11-12-2017 11.56.58_crop_9.jpg	EXCLUSVE DISTRIBUTOR
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_0.jpg	I/h
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_1.jpg	bar
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_2.jpg	Gph
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_3.jpg	PSI
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_4.jpg	AT.AM.3
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_5.jpg	7
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_6.jpg	10
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_7.jpg	14
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_8.jpg	16
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_9.jpg	31/03/2014
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_10.jpg	16
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_11.jpg	10
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_12.jpg	6
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_13.jpg	2
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_14.jpg	1.85
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_15.jpg	2.64
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_16.jpg	3.70
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_17.jpg	4.22
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_18.jpg	232
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_19.jpg	145
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_20.jpg	87
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_21.jpg	29
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_22.jpg	Cod. ATAM3HNPFFC00
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_23.jpg	100-240V  40W   50/60Hz  2A-T
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_24.jpg	IP65
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_25.jpg	CE
+crop_img/000097_Photo 11-12-2017 11.59.19_crop_26.jpg	ATHENA
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_0.jpg	Tel. : +33 (0)4 50 64 05 13
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_1.jpg	Une marque du Groupe
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_2.jpg	legrand
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_3.jpg	Fax :  +33 (0)4 50 64 04 37
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_4.jpg	ALPES TECHNOLOGIES
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_5.jpg	www.alpestechnologies.com
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_6.jpg	contact@alptestechnologies.com
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_7.jpg	N° 2014072800106
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_8.jpg	M25040/EXTENSIBL
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_9.jpg	P:  250 kvar
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_10.jpg	TENSION/INTENSITE : VOLTAGE  / CURRENT : 400V / 360A
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_11.jpg	CE
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_12.jpg	FREQUENCE/FREQUENCY 50 HZ
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_13.jpg	PHASES : 3
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_14.jpg	ISOLEMENT/INSULATION 3/15 kV
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_15.jpg	STEPS POWER  PUISSANCE GRADIN : 2*50+2*75
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_16.jpg	REF:2014072402
+crop_img/000114_Photo 26-12-2017 13.44.59_crop_17.jpg	Standard IEC 61439-1/NF EN 61 439-1 MADE IN FRANCE
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_0.jpg	portafeu
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_1.jpg	Telephone:02 32 68 37 37
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_2.jpg	NF
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_3.jpg	24 rue des Hautes Rives
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_4.jpg	Int0033 2326837 37
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_5.jpg	ASSA ABLOY
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_6.jpg	Telecopie 02 3249 47 44
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_7.jpg	27 610 Romlly sur Andelle-France
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_8.jpg	Int0033232494744
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_9.jpg	Portes résistant au feu
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_10.jpg	Réf : 1C60C
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_11.jpg	Referentiel NF277
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_12.jpg	Mode2
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_13.jpg	Lot: COU-C142979 1
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_14.jpg	Année: 2014
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_15.jpg	PF 1H30
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_16.jpg	N° 2
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_17.jpg	Sens Feu: R/V
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_18.jpg	www.marque-nf.com
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_19.jpg	Ne jamais enlever peindre ou recouvrir cette plaque
+crop_img/000120_Photo 26-12-2017 15.20.28_crop_20.jpg	CF 1H00
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_1.jpg	ATTENTION /WARNING
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_2.jpg	COUPER L'ALIMENTATION ELECTRIQUE AVANT TOUTE INTERVENTION
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_3.jpg	SHUT DOWN POWER SUPPLY BEFORE ANY INTERVENTION
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_4.jpg	saftair VENTILATION
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_5.jpg	Ventilateur Tertiaire Poulie
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_6.jpg	saftair VENTILATION
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_9.jpg	CE
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_11.jpg	FABRIQUE EN FRANCE
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_12.jpg	Nde fabrication 2014-5048085
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_13.jpg	Poids (kg:77.5
+crop_img/000161_Photo 13-12-2017 15.02.36_crop_15.jpg	Siege Social et Usine 15 rue du levant 76590 TORCY-LE-PETIT www.saltair.com
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_1.jpg	ATTENTION /WARNING
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_4.jpg	saftair VENTILATION
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_5.jpg	Ventilateur Tertiaire Poulie
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_6.jpg	saftair VENTILATION
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_9.jpg	CE
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_11.jpg	FABRIQUE EN FRANCE
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_12.jpg	N° de fabrication 2014-50480118
+crop_img/000165_Photo 13-12-2017 15.12.50_crop_13.jpg	Poids (kg):38.5
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_0.jpg	VSD 07
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_1.jpg	AE
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_2.jpg	TEST
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_3.jpg	N° de Certificat : 15
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_4.jpg	MODELE: DS1
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_5.jpg	CE IP 54
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_6.jpg	NF
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_7.jpg	saftairVENTILATION
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_8.jpg	E.ALIM :  400V
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_9.jpg	Intensite I : 6
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_10.jpg	Fonction supplémentaire : Sectionneur
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_11.jpg	N° série : 50480.11/14
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_12.jpg	E.TELE : 24/48Vcc
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_13.jpg	E.Réarm : 24/48 Vcc
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_14.jpg	E.A.P : 24/48 Vcc
+crop_img/000166_Photo 13-12-2017 15.16.41_crop_15.jpg	Cyber Pro 2
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_0.jpg	Caisson F400/120
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_1.jpg	saftair VENTILATION
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_2.jpg	N°ARC :  50480
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_3.jpg	Siège Social et Usine 15 rue du levant 76590 TORCY-LE-PETIT
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_4.jpg	Repère : VED 03
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_5.jpg	CE
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_6.jpg	3
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_7.jpg	FABRIQUE EN FRANCE
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_8.jpg	Poids (kg):185
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_9.jpg	N° de fabrication  2014-504803
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_10.jpg	SENS DE ROTATION MOTEUR
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_11.jpg	Servitude Droite
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_12.jpg	SAFTAIR VENTILATION
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_13.jpg	CE
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_14.jpg	15 rue du levant 76590 TOCRY-LE-PETIT
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_15.jpg	DOF R 05
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_16.jpg	1812
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_17.jpg	NF EN 12101 3 (V2002)
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_18.jpg	VENTILATEUR EXTRACTEUR DE FUMEES ET DE CHALEUR
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_19.jpg	SECURITE INCENDIE /FIRE SAFETY
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_20.jpg	www.saftair com
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_23.jpg	POWERED SMOKE AND HEAT EXHAUST VENTILATOR
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_24.jpg	Carectéristiques essentielles et Performances   Résistanceau feu / Fire resistance    F400    Paramètres de performance (en désenfumage)  +/- 10%  Preformance parameters  Durabilité de la fiabilitéopérationnelle  Moteur Classe F   Sustainability of operational reliability  Echuaffement B
+crop_img/000167_Photo 13-12-2017 15.23.04_crop_25.jpg	Performances Non Déterminées / Non Determined Performances  Temps de réponse/ Time to get  the product at operation level  Fiabilité opérationnelle / Operational  reliability  Efficacité de l'extraction des fumées / gaz chauds  Extraction efficiency of fumes / hot gases Capcité d'ouverture sous condition d'environnement   Opening capacity under environmental conditions

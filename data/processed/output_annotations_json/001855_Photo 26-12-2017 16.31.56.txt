@@ -1,0 +1,464 @@
+[
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        1052,
+        262
+      ],
+      [
+        1115,
+        262
+      ],
+      [
+        1115,
+        307
+      ],
+      [
+        1052,
+        307
+      ]
+    ]
+  },
+  {
+    "transcription": "KSB b",
+    "points": [
+      [
+        370,
+        277
+      ],
+      [
+        460,
+        272
+      ],
+      [
+        462,
+        301
+      ],
+      [
+        372,
+        306
+      ]
+    ]
+  },
+  {
+    "transcription": "Commande : 9972771896",
+    "points": [
+      [
+        648,
+        293
+      ],
+      [
+        857,
+        292
+      ],
+      [
+        857,
+        315
+      ],
+      [
+        648,
+        316
+      ]
+    ]
+  },
+  {
+    "transcription": "SIC.2B VP 4.2.4 V",
+    "points": [
+      [
+        381,
+        319
+      ],
+      [
+        535,
+        319
+      ],
+      [
+        535,
+        338
+      ],
+      [
+        381,
+        338
+      ]
+    ]
+  },
+  {
+    "transcription": "Pos.: 100",
+    "points": [
+      [
+        647,
+        318
+      ],
+      [
+        792,
+        318
+      ],
+      [
+        792,
+        338
+      ],
+      [
+        647,
+        338
+      ]
+    ]
+  },
+  {
+    "transcription": "N° série  2014w41",
+    "points": [
+      [
+        936,
+        315
+      ],
+      [
+        1119,
+        315
+      ],
+      [
+        1119,
+        335
+      ],
+      [
+        936,
+        335
+      ]
+    ]
+  },
+  {
+    "transcription": "Type de pompe Movitec V004/04-84",
+    "points": [
+      [
+        871,
+        336
+      ],
+      [
+        1125,
+        336
+      ],
+      [
+        1125,
+        356
+      ],
+      [
+        871,
+        356
+      ]
+    ]
+  },
+  {
+    "transcription": "Pression regulée   5.7bar",
+    "points": [
+      [
+        380,
+        360
+      ],
+      [
+        605,
+        360
+      ],
+      [
+        605,
+        376
+      ],
+      [
+        380,
+        376
+      ]
+    ]
+  },
+  {
+    "transcription": "PM   6.3 bar",
+    "points": [
+      [
+        647,
+        357
+      ],
+      [
+        845,
+        357
+      ],
+      [
+        845,
+        373
+      ],
+      [
+        647,
+        373
+      ]
+    ]
+  },
+  {
+    "transcription": "Puissance par moteur P2  2x0.55",
+    "points": [
+      [
+        869,
+        356
+      ],
+      [
+        1097,
+        352
+      ],
+      [
+        1099,
+        372
+      ],
+      [
+        869,
+        373
+      ]
+    ]
+  },
+  {
+    "transcription": "Tension de service 400V  50HZ",
+    "points": [
+      [
+        869,
+        373
+      ],
+      [
+        1135,
+        373
+      ],
+      [
+        1135,
+        389
+      ],
+      [
+        869,
+        389
+      ]
+    ]
+  },
+  {
+    "transcription": "Pression aspiration 3 bar",
+    "points": [
+      [
+        381,
+        391
+      ],
+      [
+        611,
+        391
+      ],
+      [
+        611,
+        410
+      ],
+      [
+        381,
+        410
+      ]
+    ]
+  },
+  {
+    "transcription": "Réservoir:    Prégonflage   5.0 bar  Volume 8 l",
+    "points": [
+      [
+        647,
+        374
+      ],
+      [
+        848,
+        374
+      ],
+      [
+        848,
+        425
+      ],
+      [
+        647,
+        425
+      ]
+    ]
+  },
+  {
+    "transcription": "Tension de commande 230V 50HZ",
+    "points": [
+      [
+        869,
+        392
+      ],
+      [
+        1144,
+        392
+      ],
+      [
+        1144,
+        406
+      ],
+      [
+        869,
+        406
+      ]
+    ]
+  },
+  {
+    "transcription": "Hauteur à l'aspiration  m",
+    "points": [
+      [
+        382,
+        409
+      ],
+      [
+        599,
+        410
+      ],
+      [
+        603,
+        424
+      ],
+      [
+        381,
+        426
+      ]
+    ]
+  },
+  {
+    "transcription": "courant nominal du moteur  1.3 A",
+    "points": [
+      [
+        869,
+        404
+      ],
+      [
+        1153,
+        404
+      ],
+      [
+        1153,
+        424
+      ],
+      [
+        869,
+        424
+      ]
+    ]
+  },
+  {
+    "transcription": "Pression de service max du surpresseur  16.0  bar",
+    "points": [
+      [
+        380,
+        429
+      ],
+      [
+        606,
+        428
+      ],
+      [
+        612,
+        462
+      ],
+      [
+        383,
+        464
+      ]
+    ]
+  },
+  {
+    "transcription": "Pression de service 16 bar",
+    "points": [
+      [
+        645,
+        428
+      ],
+      [
+        847,
+        428
+      ],
+      [
+        847,
+        443
+      ],
+      [
+        645,
+        443
+      ]
+    ]
+  },
+  {
+    "transcription": "Schéma électrique BD 708 568",
+    "points": [
+      [
+        867,
+        426
+      ],
+      [
+        1135,
+        426
+      ],
+      [
+        1135,
+        443
+      ],
+      [
+        867,
+        443
+      ]
+    ]
+  },
+  {
+    "transcription": "Lire la notice d'instruction avant mise en service",
+    "points": [
+      [
+        604,
+        471
+      ],
+      [
+        870,
+        471
+      ],
+      [
+        870,
+        489
+      ],
+      [
+        604,
+        489
+      ]
+    ]
+  },
+  {
+    "transcription": "Qualitätsprüfung durchgeführt P6",
+    "points": [
+      [
+        125,
+        587
+      ],
+      [
+        302,
+        577
+      ],
+      [
+        315,
+        628
+      ],
+      [
+        126,
+        643
+      ]
+    ]
+  },
+  {
+    "transcription": "Débit max surpresseur  7.0  m3/h",
+    "points": [
+      [
+        380,
+        340
+      ],
+      [
+        615,
+        340
+      ],
+      [
+        615,
+        357
+      ],
+      [
+        380,
+        357
+      ]
+    ]
+  }
+]

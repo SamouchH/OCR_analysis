@@ -1,0 +1,338 @@
+[
+  {
+    "transcription": "Datos de la Maquina :  BMU Data : Information de la machine :",
+    "points": [
+      [
+        382,
+        598
+      ],
+      [
+        571,
+        604
+      ],
+      [
+        577,
+        662
+      ],
+      [
+        379,
+        656
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        614,
+        600
+      ],
+      [
+        678,
+        604
+      ],
+      [
+        675,
+        654
+      ],
+      [
+        611,
+        649
+      ]
+    ]
+  },
+  {
+    "transcription": "Atech",
+    "points": [
+      [
+        305,
+        625
+      ],
+      [
+        358,
+        631
+      ],
+      [
+        357,
+        649
+      ],
+      [
+        303,
+        644
+      ]
+    ]
+  },
+  {
+    "transcription": "Made in Spain",
+    "points": [
+      [
+        608,
+        648
+      ],
+      [
+        683,
+        651
+      ],
+      [
+        685,
+        665
+      ],
+      [
+        608,
+        663
+      ]
+    ]
+  },
+  {
+    "transcription": "Modelo: A-15 Model Modèle:",
+    "points": [
+      [
+        259,
+        661
+      ],
+      [
+        349,
+        666
+      ],
+      [
+        356,
+        709
+      ],
+      [
+        258,
+        705
+      ]
+    ]
+  },
+  {
+    "transcription": "Carga maxima de la Cesta: 240 Kg Maximum Cradle load :  Charge maximale nacelle",
+    "points": [
+      [
+        442,
+        669
+      ],
+      [
+        663,
+        673
+      ],
+      [
+        660,
+        717
+      ],
+      [
+        440,
+        711
+      ]
+    ]
+  },
+  {
+    "transcription": "N° de serle: M3426 Serial no.: Numéro de série:",
+    "points": [
+      [
+        262,
+        706
+      ],
+      [
+        386,
+        712
+      ],
+      [
+        377,
+        752
+      ],
+      [
+        257,
+        747
+      ]
+    ]
+  },
+  {
+    "transcription": "Carga maxima del Polipasto:  - - Auxiliari Hoist maximun load :  Charge maximale treuil auxiliaire :",
+    "points": [
+      [
+        439,
+        715
+      ],
+      [
+        638,
+        719
+      ],
+      [
+        637,
+        761
+      ],
+      [
+        438,
+        756
+      ]
+    ]
+  },
+  {
+    "transcription": "Año de fabricacion: 2014 Fabrication year: Année de fabnication:",
+    "points": [
+      [
+        261,
+        748
+      ],
+      [
+        419,
+        752
+      ],
+      [
+        419,
+        799
+      ],
+      [
+        259,
+        792
+      ]
+    ]
+  },
+  {
+    "transcription": "Numero maximo de Personas :  2 Maximum number of persons: Nombre de personnes maxi",
+    "points": [
+      [
+        442,
+        756
+      ],
+      [
+        638,
+        761
+      ],
+      [
+        637,
+        804
+      ],
+      [
+        438,
+        798
+      ]
+    ]
+  },
+  {
+    "transcription": "Contrôlé le",
+    "points": [
+      [
+        412,
+        852
+      ],
+      [
+        506,
+        856
+      ],
+      [
+        504,
+        879
+      ],
+      [
+        411,
+        874
+      ]
+    ]
+  },
+  {
+    "transcription": "Année",
+    "points": [
+      [
+        423,
+        890
+      ],
+      [
+        481,
+        894
+      ],
+      [
+        480,
+        911
+      ],
+      [
+        422,
+        908
+      ]
+    ]
+  },
+  {
+    "transcription": "Mois",
+    "points": [
+      [
+        393,
+        919
+      ],
+      [
+        422,
+        919
+      ],
+      [
+        422,
+        931
+      ],
+      [
+        393,
+        931
+      ]
+    ]
+  },
+  {
+    "transcription": "Jour",
+    "points": [
+      [
+        496,
+        918
+      ],
+      [
+        520,
+        922
+      ],
+      [
+        517,
+        937
+      ],
+      [
+        493,
+        932
+      ]
+    ]
+  },
+  {
+    "transcription": "DEKRA",
+    "points": [
+      [
+        400,
+        984
+      ],
+      [
+        512,
+        988
+      ],
+      [
+        511,
+        1022
+      ],
+      [
+        399,
+        1017
+      ]
+    ]
+  },
+  {
+    "transcription": "EUROACCESS TECHNOLOGY",
+    "points": [
+      [
+        254,
+        642
+      ],
+      [
+        360,
+        642
+      ],
+      [
+        360,
+        658
+      ],
+      [
+        254,
+        658
+      ]
+    ]
+  }
+]

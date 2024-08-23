@@ -1,0 +1,21 @@
+312,139,363,139,363,175,312,175	CE	0
+103,133,285,136,276,195,108,191	permo TRAITEMENT DES EAUX	0
+101,426,145,436,142,450,98,440	Agence:	0
+240,444,265,446,264,458,239,456	Tel:	0
+68,192,325,198,325,212,69,207	103 rue Charles Michels 93206 St Denis Cedex	0
+70,213,181,219,384,219,383,233,183,233,71,225	Type d'appareil Type  6025A4X-C	0
+71,229,185,236,360,236,360,249,184,248,72,239	N° de fabrication  Serial number  7133	0
+73,245,184,252,342,253,342,264,184,264,72,254	N° d'appareil Item number  4	0
+75,259,152,265,254,271,356,267,353,280,255,283,75,270	Date de fabrication (SS/AA) Manufacturing date (WW/YY)  35/07	0
+75,273,177,284,347,284,346,296,180,295,74,284	Poid en fonction (Kg)  Floor loading (Kg)  240	0
+76,287,186,299,340,299,339,311,185,310,76,298	onDébit nominal (m3/h) Nominal flow rate (m3/h)  2	0
+78,301,184,314,344,314,343,326,185,325,78,314	Pression dyna. mini (bar)   Min dyna pressure (bar)   1.5	0
+79,316,186,329,337,328,337,339,185,339,78,326	Pression stat.max (bar) Max static pressure (bar)  7	0
+79,329,187,343,345,343,344,354,186,354,79,340	Tension (V)   Voltage(V)   230	0
+80,342,186,357,351,356,349,368,187,369,81,353	Fréquence (Hz)   Frequency (Hz)    50 - 60	0
+82,356,186,371,338,371,337,381,188,381,82,366	Puissance (VA)  Power Consumption (VA) 50	0
+81,369,186,384,344,384,344,397,187,395,81,380	Temp. min/max eau (°C)  Min/max water temp. (°C)   1-35	0
+83,381,185,398,289,401,288,415,186,410,83,392	Temp. min/max amb. (°C)  Min/max amb. temp. (°C)	0
+84,394,185,413,240,415,240,426,177,421,85,406	Protection appareil  Protection	0
+84,407,175,424,258,428,258,441,161,434,84,419	Registre DEEE  WEEE register	0
+324,397,344,399,343,423,324,424	5-40  IP54	0

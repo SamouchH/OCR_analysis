@@ -1,0 +1,11 @@
+120,53,233,51,239,98,123,101	WATS	0
+458,47,582,47,582,87,458,87	98003	0
+221,121,382,121,382,154,221,154	Tempreature / a membrane / a: -10 / +70 °C   system /e /sistema: +10 / +99 °C	0
+423,112,563,112,563,140,423,140	Factory Precharge  Precarica di Fabbrice  Prégonflage de Maison  2 bar	0
+44,122,211,121,210,154,47,150	Max Working Pressure Press. Max di Esercizio Pression maxi d'exercice  	0
+422,152,511,151,517,174,419,181	Set Precharge Precarica impostata  Prégonflage ajusté	0
+224,160,398,160,404,183,223,190	Year of Production  Anno di Costruzione Annee de Fabrication  A / 2007 	0
+139,160,215,160,215,201,139,201	20013	0
+419,191,524,187,530,210,419,219	Capacity Litre Capacita Litri Capacités Litres  150	0
+225,202,387,195,390,224,227,228	Serial Number  Numero di fabbrica  Numéro de série  019146	0
+52,201,217,201,217,237,52,237	Family of vessel / 130CAL-PRO	0

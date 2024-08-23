@@ -1,0 +1,357 @@
+[2024/08/23 00:09:45] ppocr INFO: Architecture : 
+[2024/08/23 00:09:45] ppocr INFO:     Backbone : 
+[2024/08/23 00:09:45] ppocr INFO:         model_name : large
+[2024/08/23 00:09:45] ppocr INFO:         name : MobileNetV3
+[2024/08/23 00:09:45] ppocr INFO:         scale : 0.5
+[2024/08/23 00:09:45] ppocr INFO:     Head : 
+[2024/08/23 00:09:45] ppocr INFO:         model_name : small
+[2024/08/23 00:09:45] ppocr INFO:         name : EASTHead
+[2024/08/23 00:09:45] ppocr INFO:     Neck : 
+[2024/08/23 00:09:45] ppocr INFO:         model_name : small
+[2024/08/23 00:09:45] ppocr INFO:         name : EASTFPN
+[2024/08/23 00:09:45] ppocr INFO:     Transform : None
+[2024/08/23 00:09:45] ppocr INFO:     algorithm : EAST
+[2024/08/23 00:09:45] ppocr INFO:     model_type : det
+[2024/08/23 00:09:45] ppocr INFO: Eval : 
+[2024/08/23 00:09:45] ppocr INFO:     dataset : 
+[2024/08/23 00:09:45] ppocr INFO:         data_dir : ../data/raw/images/eval/
+[2024/08/23 00:09:45] ppocr INFO:         label_file_list : ['./data/eval_list.txt']
+[2024/08/23 00:09:45] ppocr INFO:         name : SimpleDataSet
+[2024/08/23 00:09:45] ppocr INFO:         transforms : 
+[2024/08/23 00:09:45] ppocr INFO:             DecodeImage : 
+[2024/08/23 00:09:45] ppocr INFO:                 channel_first : False
+[2024/08/23 00:09:45] ppocr INFO:                 img_mode : BGR
+[2024/08/23 00:09:45] ppocr INFO:             DetLabelEncode : None
+[2024/08/23 00:09:45] ppocr INFO:             DetResizeForTest : 
+[2024/08/23 00:09:45] ppocr INFO:                 limit_side_len : 2400
+[2024/08/23 00:09:45] ppocr INFO:                 limit_type : max
+[2024/08/23 00:09:45] ppocr INFO:             NormalizeImage : 
+[2024/08/23 00:09:45] ppocr INFO:                 mean : [0.485, 0.456, 0.406]
+[2024/08/23 00:09:45] ppocr INFO:                 order : hwc
+[2024/08/23 00:09:45] ppocr INFO:                 scale : 1./255.
+[2024/08/23 00:09:45] ppocr INFO:                 std : [0.229, 0.224, 0.225]
+[2024/08/23 00:09:45] ppocr INFO:             ToCHWImage : None
+[2024/08/23 00:09:45] ppocr INFO:             KeepKeys : 
+[2024/08/23 00:09:45] ppocr INFO:                 keep_keys : ['image', 'shape', 'polys', 'ignore_tags']
+[2024/08/23 00:09:45] ppocr INFO:     loader : 
+[2024/08/23 00:09:45] ppocr INFO:         batch_size_per_card : 1
+[2024/08/23 00:09:45] ppocr INFO:         drop_last : False
+[2024/08/23 00:09:45] ppocr INFO:         num_workers : 2
+[2024/08/23 00:09:45] ppocr INFO:         shuffle : False
+[2024/08/23 00:09:45] ppocr INFO: Global : 
+[2024/08/23 00:09:45] ppocr INFO:     cal_metric_during_train : False
+[2024/08/23 00:09:45] ppocr INFO:     checkpoints : None
+[2024/08/23 00:09:45] ppocr INFO:     distributed : False
+[2024/08/23 00:09:45] ppocr INFO:     epoch_num : 100
+[2024/08/23 00:09:45] ppocr INFO:     eval_batch_step : [4000, 5000]
+[2024/08/23 00:09:45] ppocr INFO:     infer_img : None
+[2024/08/23 00:09:45] ppocr INFO:     log_smooth_window : 20
+[2024/08/23 00:09:45] ppocr INFO:     pretrained_model : ./models/det_mv3_east_v2.0_train/best_accuracy.pdparams
+[2024/08/23 00:09:45] ppocr INFO:     print_batch_step : 2
+[2024/08/23 00:09:45] ppocr INFO:     save_epoch_step : 1000
+[2024/08/23 00:09:45] ppocr INFO:     save_inference_dir : ./output/det_mv3_east/inference
+[2024/08/23 00:09:45] ppocr INFO:     save_model_dir : ./output/east_mv3/
+[2024/08/23 00:09:45] ppocr INFO:     save_res_path : ./output/det_east_mobile/predicts_east.txt
+[2024/08/23 00:09:45] ppocr INFO:     use_gpu : True
+[2024/08/23 00:09:45] ppocr INFO:     use_visualdl : False
+[2024/08/23 00:09:45] ppocr INFO: Loss : 
+[2024/08/23 00:09:45] ppocr INFO:     name : EASTLoss
+[2024/08/23 00:09:45] ppocr INFO: Metric : 
+[2024/08/23 00:09:45] ppocr INFO:     main_indicator : hmean
+[2024/08/23 00:09:45] ppocr INFO:     name : DetMetric
+[2024/08/23 00:09:45] ppocr INFO: Optimizer : 
+[2024/08/23 00:09:45] ppocr INFO:     beta1 : 0.9
+[2024/08/23 00:09:45] ppocr INFO:     beta2 : 0.999
+[2024/08/23 00:09:45] ppocr INFO:     lr : 
+[2024/08/23 00:09:45] ppocr INFO:         learning_rate : 0.001
+[2024/08/23 00:09:45] ppocr INFO:     name : Adam
+[2024/08/23 00:09:45] ppocr INFO:     regularizer : 
+[2024/08/23 00:09:45] ppocr INFO:         factor : 0
+[2024/08/23 00:09:45] ppocr INFO:         name : L2
+[2024/08/23 00:09:45] ppocr INFO: PostProcess : 
+[2024/08/23 00:09:45] ppocr INFO:     cover_thresh : 0.1
+[2024/08/23 00:09:45] ppocr INFO:     name : EASTPostProcess
+[2024/08/23 00:09:45] ppocr INFO:     nms_thresh : 0.2
+[2024/08/23 00:09:45] ppocr INFO:     score_thresh : 0.8
+[2024/08/23 00:09:45] ppocr INFO: Train : 
+[2024/08/23 00:09:45] ppocr INFO:     dataset : 
+[2024/08/23 00:09:45] ppocr INFO:         data_dir : ../data/raw/images/train/
+[2024/08/23 00:09:45] ppocr INFO:         label_file_list : ['./data/train_list.txt']
+[2024/08/23 00:09:45] ppocr INFO:         name : SimpleDataSet
+[2024/08/23 00:09:45] ppocr INFO:         ratio_list : [1.0]
+[2024/08/23 00:09:45] ppocr INFO:         transforms : 
+[2024/08/23 00:09:45] ppocr INFO:             DecodeImage : 
+[2024/08/23 00:09:45] ppocr INFO:                 channel_first : False
+[2024/08/23 00:09:45] ppocr INFO:                 img_mode : BGR
+[2024/08/23 00:09:45] ppocr INFO:             DetLabelEncode : None
+[2024/08/23 00:09:45] ppocr INFO:             EASTProcessTrain : 
+[2024/08/23 00:09:45] ppocr INFO:                 background_ratio : 0.125
+[2024/08/23 00:09:45] ppocr INFO:                 image_shape : [512, 512]
+[2024/08/23 00:09:45] ppocr INFO:                 min_crop_side_ratio : 0.1
+[2024/08/23 00:09:45] ppocr INFO:                 min_text_size : 10
+[2024/08/23 00:09:45] ppocr INFO:             KeepKeys : 
+[2024/08/23 00:09:45] ppocr INFO:                 keep_keys : ['image', 'score_map', 'geo_map', 'training_mask']
+[2024/08/23 00:09:45] ppocr INFO:     loader : 
+[2024/08/23 00:09:45] ppocr INFO:         batch_size_per_card : 16
+[2024/08/23 00:09:45] ppocr INFO:         drop_last : False
+[2024/08/23 00:09:45] ppocr INFO:         num_workers : 8
+[2024/08/23 00:09:45] ppocr INFO:         shuffle : True
+[2024/08/23 00:09:45] ppocr INFO: profiler_options : None
+[2024/08/23 00:09:45] ppocr INFO: train with paddle 3.0.0-beta1 and device Place(gpu:0)
+[2024/08/23 00:09:45] ppocr INFO: Initialize indexs of datasets:['./data/train_list.txt']
+[2024/08/23 00:09:45] ppocr INFO: Initialize indexs of datasets:['./data/eval_list.txt']
+[2024/08/23 00:09:45] ppocr INFO: train dataloader has 4 iters
+[2024/08/23 00:09:45] ppocr INFO: valid dataloader has 9 iters
+[2024/08/23 00:09:45] ppocr INFO: load pretrain successful from ./models/det_mv3_east_v2.0_train/best_accuracy
+[2024/08/23 00:09:45] ppocr INFO: During the training process, after the 4000th iteration, an evaluation is run every 5000 iterations
+[2024/08/23 00:09:49] ppocr INFO: epoch: [1/100], global_step: 2, lr: 0.001000, loss: 0.081077, dice_loss: 0.004670, smooth_l1_loss: 0.076407, avg_reader_cost: 0.68465 s, avg_batch_cost: 1.84688 s, avg_samples: 16.0, ips: 8.66324 samples/s, eta: 0:12:15, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:09:50] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:09:51] ppocr INFO: epoch: [2/100], global_step: 4, lr: 0.001000, loss: 0.075062, dice_loss: 0.005018, smooth_l1_loss: 0.069695, avg_reader_cost: 0.80850 s, avg_batch_cost: 1.01080 s, avg_samples: 16.0, ips: 15.82899 samples/s, eta: 0:09:24, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:09:53] ppocr INFO: epoch: [2/100], global_step: 6, lr: 0.001000, loss: 0.073887, dice_loss: 0.004789, smooth_l1_loss: 0.069127, avg_reader_cost: 0.74106 s, avg_batch_cost: 0.94389 s, avg_samples: 16.0, ips: 16.95111 samples/s, eta: 0:08:18, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:09:54] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:09:56] ppocr INFO: epoch: [3/100], global_step: 8, lr: 0.001000, loss: 0.071654, dice_loss: 0.005116, smooth_l1_loss: 0.066624, avg_reader_cost: 0.95036 s, avg_batch_cost: 1.15406 s, avg_samples: 16.0, ips: 13.86413 samples/s, eta: 0:08:03, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:09:57] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:09:58] ppocr INFO: epoch: [4/100], global_step: 10, lr: 0.001000, loss: 0.065538, dice_loss: 0.005263, smooth_l1_loss: 0.060527, avg_reader_cost: 0.90618 s, avg_batch_cost: 1.11419 s, avg_samples: 16.0, ips: 14.36020 samples/s, eta: 0:07:49, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:00] ppocr INFO: epoch: [4/100], global_step: 12, lr: 0.001000, loss: 0.065538, dice_loss: 0.005263, smooth_l1_loss: 0.060527, avg_reader_cost: 0.78954 s, avg_batch_cost: 0.99570 s, avg_samples: 16.0, ips: 16.06903 samples/s, eta: 0:07:33, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:00] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:03] ppocr INFO: epoch: [5/100], global_step: 14, lr: 0.001000, loss: 0.061790, dice_loss: 0.005035, smooth_l1_loss: 0.056282, avg_reader_cost: 0.80787 s, avg_batch_cost: 1.01973 s, avg_samples: 16.0, ips: 15.69037 samples/s, eta: 0:07:21, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:04] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:05] ppocr INFO: epoch: [6/100], global_step: 16, lr: 0.001000, loss: 0.065538, dice_loss: 0.005034, smooth_l1_loss: 0.060527, avg_reader_cost: 0.97550 s, avg_batch_cost: 1.18012 s, avg_samples: 16.0, ips: 13.55799 samples/s, eta: 0:07:18, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:07] ppocr INFO: epoch: [6/100], global_step: 18, lr: 0.001000, loss: 0.061790, dice_loss: 0.004789, smooth_l1_loss: 0.056282, avg_reader_cost: 0.69330 s, avg_batch_cost: 0.90238 s, avg_samples: 16.0, ips: 17.73085 samples/s, eta: 0:07:05, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:07] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:09] ppocr INFO: epoch: [7/100], global_step: 20, lr: 0.001000, loss: 0.064273, dice_loss: 0.004684, smooth_l1_loss: 0.059646, avg_reader_cost: 0.79337 s, avg_batch_cost: 1.00014 s, avg_samples: 16.0, ips: 15.99784 samples/s, eta: 0:06:57, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:10] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:12] ppocr INFO: epoch: [8/100], global_step: 22, lr: 0.001000, loss: 0.061594, dice_loss: 0.004863, smooth_l1_loss: 0.057178, avg_reader_cost: 0.99225 s, avg_batch_cost: 1.19410 s, avg_samples: 16.0, ips: 13.39920 samples/s, eta: 0:06:56, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:14] ppocr INFO: epoch: [8/100], global_step: 24, lr: 0.001000, loss: 0.059047, dice_loss: 0.004654, smooth_l1_loss: 0.053641, avg_reader_cost: 0.66844 s, avg_batch_cost: 0.87399 s, avg_samples: 16.0, ips: 18.30677 samples/s, eta: 0:06:47, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:14] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:16] ppocr INFO: epoch: [9/100], global_step: 26, lr: 0.001000, loss: 0.055698, dice_loss: 0.004579, smooth_l1_loss: 0.050737, avg_reader_cost: 0.95502 s, avg_batch_cost: 1.15592 s, avg_samples: 16.0, ips: 13.84173 samples/s, eta: 0:06:45, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:17] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:18] ppocr INFO: epoch: [10/100], global_step: 28, lr: 0.001000, loss: 0.053284, dice_loss: 0.004412, smooth_l1_loss: 0.048974, avg_reader_cost: 0.78060 s, avg_batch_cost: 0.98794 s, avg_samples: 16.0, ips: 16.19534 samples/s, eta: 0:06:38, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:20] ppocr INFO: epoch: [10/100], global_step: 30, lr: 0.001000, loss: 0.058602, dice_loss: 0.004355, smooth_l1_loss: 0.053837, avg_reader_cost: 0.75015 s, avg_batch_cost: 0.95268 s, avg_samples: 16.0, ips: 16.79470 samples/s, eta: 0:06:33, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:20] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:22] ppocr INFO: epoch: [11/100], global_step: 32, lr: 0.001000, loss: 0.058602, dice_loss: 0.004347, smooth_l1_loss: 0.053837, avg_reader_cost: 0.82539 s, avg_batch_cost: 1.03412 s, avg_samples: 16.0, ips: 15.47207 samples/s, eta: 0:06:28, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:24] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:25] ppocr INFO: epoch: [12/100], global_step: 34, lr: 0.001000, loss: 0.060959, dice_loss: 0.004347, smooth_l1_loss: 0.055866, avg_reader_cost: 0.93475 s, avg_batch_cost: 1.13690 s, avg_samples: 16.0, ips: 14.07330 samples/s, eta: 0:06:26, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:27] ppocr INFO: epoch: [12/100], global_step: 36, lr: 0.001000, loss: 0.060081, dice_loss: 0.004335, smooth_l1_loss: 0.055005, avg_reader_cost: 0.73856 s, avg_batch_cost: 0.94382 s, avg_samples: 16.0, ips: 16.95232 samples/s, eta: 0:06:21, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:27] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:29] ppocr INFO: epoch: [13/100], global_step: 38, lr: 0.001000, loss: 0.060081, dice_loss: 0.004264, smooth_l1_loss: 0.055005, avg_reader_cost: 0.83469 s, avg_batch_cost: 1.04043 s, avg_samples: 16.0, ips: 15.37828 samples/s, eta: 0:06:17, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:30] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:32] ppocr INFO: epoch: [14/100], global_step: 40, lr: 0.001000, loss: 0.055826, dice_loss: 0.004230, smooth_l1_loss: 0.051604, avg_reader_cost: 1.00259 s, avg_batch_cost: 1.19991 s, avg_samples: 16.0, ips: 13.33439 samples/s, eta: 0:06:16, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:34] ppocr INFO: epoch: [14/100], global_step: 42, lr: 0.001000, loss: 0.053258, dice_loss: 0.004174, smooth_l1_loss: 0.049357, avg_reader_cost: 0.69731 s, avg_batch_cost: 0.90999 s, avg_samples: 16.0, ips: 17.58253 samples/s, eta: 0:06:11, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:34] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:36] ppocr INFO: epoch: [15/100], global_step: 44, lr: 0.001000, loss: 0.054338, dice_loss: 0.004123, smooth_l1_loss: 0.050152, avg_reader_cost: 0.97774 s, avg_batch_cost: 1.18564 s, avg_samples: 16.0, ips: 13.49483 samples/s, eta: 0:06:09, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:37] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:38] ppocr INFO: epoch: [16/100], global_step: 46, lr: 0.001000, loss: 0.054338, dice_loss: 0.004103, smooth_l1_loss: 0.050152, avg_reader_cost: 0.83115 s, avg_batch_cost: 1.04054 s, avg_samples: 16.0, ips: 15.37659 samples/s, eta: 0:06:05, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:40] ppocr INFO: epoch: [16/100], global_step: 48, lr: 0.001000, loss: 0.054338, dice_loss: 0.004120, smooth_l1_loss: 0.050152, avg_reader_cost: 0.76353 s, avg_batch_cost: 0.97238 s, avg_samples: 16.0, ips: 16.45450 samples/s, eta: 0:06:02, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:41] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:43] ppocr INFO: epoch: [17/100], global_step: 50, lr: 0.001000, loss: 0.054338, dice_loss: 0.004103, smooth_l1_loss: 0.050152, avg_reader_cost: 0.80941 s, avg_batch_cost: 1.02609 s, avg_samples: 16.0, ips: 15.59312 samples/s, eta: 0:05:58, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:44] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:45] ppocr INFO: epoch: [18/100], global_step: 52, lr: 0.001000, loss: 0.054338, dice_loss: 0.004106, smooth_l1_loss: 0.050152, avg_reader_cost: 0.82029 s, avg_batch_cost: 1.02077 s, avg_samples: 16.0, ips: 15.67444 samples/s, eta: 0:05:54, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:47] ppocr INFO: epoch: [18/100], global_step: 54, lr: 0.001000, loss: 0.053253, dice_loss: 0.004100, smooth_l1_loss: 0.049357, avg_reader_cost: 0.79237 s, avg_batch_cost: 1.00355 s, avg_samples: 16.0, ips: 15.94347 samples/s, eta: 0:05:51, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:47] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:49] ppocr INFO: epoch: [19/100], global_step: 56, lr: 0.001000, loss: 0.053253, dice_loss: 0.004047, smooth_l1_loss: 0.049357, avg_reader_cost: 0.79490 s, avg_batch_cost: 0.99730 s, avg_samples: 16.0, ips: 16.04328 samples/s, eta: 0:05:47, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:50] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:51] ppocr INFO: epoch: [20/100], global_step: 58, lr: 0.001000, loss: 0.053253, dice_loss: 0.004047, smooth_l1_loss: 0.049357, avg_reader_cost: 0.80768 s, avg_batch_cost: 1.02477 s, avg_samples: 16.0, ips: 15.61333 samples/s, eta: 0:05:43, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:53] ppocr INFO: epoch: [20/100], global_step: 60, lr: 0.001000, loss: 0.053253, dice_loss: 0.004080, smooth_l1_loss: 0.049357, avg_reader_cost: 0.62324 s, avg_batch_cost: 0.82563 s, avg_samples: 16.0, ips: 19.37911 samples/s, eta: 0:05:39, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:53] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:55] ppocr INFO: epoch: [21/100], global_step: 62, lr: 0.001000, loss: 0.056196, dice_loss: 0.004080, smooth_l1_loss: 0.052277, avg_reader_cost: 0.83046 s, avg_batch_cost: 1.02769 s, avg_samples: 16.0, ips: 15.56883 samples/s, eta: 0:05:35, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:10:56] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:10:57] ppocr INFO: epoch: [22/100], global_step: 64, lr: 0.001000, loss: 0.056648, dice_loss: 0.003994, smooth_l1_loss: 0.052961, avg_reader_cost: 0.82830 s, avg_batch_cost: 1.04690 s, avg_samples: 16.0, ips: 15.28328 samples/s, eta: 0:05:32, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:00] ppocr INFO: epoch: [22/100], global_step: 66, lr: 0.001000, loss: 0.057835, dice_loss: 0.003931, smooth_l1_loss: 0.053812, avg_reader_cost: 0.84394 s, avg_batch_cost: 1.04476 s, avg_samples: 16.0, ips: 15.31459 samples/s, eta: 0:05:30, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:00] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:02] ppocr INFO: epoch: [23/100], global_step: 68, lr: 0.001000, loss: 0.056648, dice_loss: 0.003875, smooth_l1_loss: 0.052961, avg_reader_cost: 1.00315 s, avg_batch_cost: 1.20851 s, avg_samples: 16.0, ips: 13.23942 samples/s, eta: 0:05:28, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:04] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:05] ppocr INFO: epoch: [24/100], global_step: 70, lr: 0.001000, loss: 0.056648, dice_loss: 0.003875, smooth_l1_loss: 0.052961, avg_reader_cost: 1.09858 s, avg_batch_cost: 1.31001 s, avg_samples: 16.0, ips: 12.21360 samples/s, eta: 0:05:27, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:07] ppocr INFO: epoch: [24/100], global_step: 72, lr: 0.001000, loss: 0.056648, dice_loss: 0.003875, smooth_l1_loss: 0.052961, avg_reader_cost: 0.71181 s, avg_batch_cost: 0.93065 s, avg_samples: 16.0, ips: 17.19224 samples/s, eta: 0:05:24, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:07] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:09] ppocr INFO: epoch: [25/100], global_step: 74, lr: 0.001000, loss: 0.056648, dice_loss: 0.003908, smooth_l1_loss: 0.052961, avg_reader_cost: 0.82781 s, avg_batch_cost: 1.02445 s, avg_samples: 16.0, ips: 15.61817 samples/s, eta: 0:05:20, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:10] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:11] ppocr INFO: epoch: [26/100], global_step: 76, lr: 0.001000, loss: 0.054672, dice_loss: 0.003940, smooth_l1_loss: 0.051070, avg_reader_cost: 0.69683 s, avg_batch_cost: 0.90280 s, avg_samples: 16.0, ips: 17.72269 samples/s, eta: 0:05:16, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:13] ppocr INFO: epoch: [26/100], global_step: 78, lr: 0.001000, loss: 0.053651, dice_loss: 0.003915, smooth_l1_loss: 0.049805, avg_reader_cost: 0.62575 s, avg_batch_cost: 0.82430 s, avg_samples: 16.0, ips: 19.41040 samples/s, eta: 0:05:12, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:13] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:15] ppocr INFO: epoch: [27/100], global_step: 80, lr: 0.001000, loss: 0.057399, dice_loss: 0.003887, smooth_l1_loss: 0.054154, avg_reader_cost: 0.88510 s, avg_batch_cost: 1.08806 s, avg_samples: 16.0, ips: 14.70502 samples/s, eta: 0:05:09, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:16] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:18] ppocr INFO: epoch: [28/100], global_step: 82, lr: 0.001000, loss: 0.056112, dice_loss: 0.003880, smooth_l1_loss: 0.052431, avg_reader_cost: 0.90771 s, avg_batch_cost: 1.11394 s, avg_samples: 16.0, ips: 14.36337 samples/s, eta: 0:05:06, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:19] ppocr INFO: epoch: [28/100], global_step: 84, lr: 0.001000, loss: 0.053651, dice_loss: 0.003887, smooth_l1_loss: 0.049805, avg_reader_cost: 0.57721 s, avg_batch_cost: 0.77919 s, avg_samples: 16.0, ips: 20.53406 samples/s, eta: 0:05:02, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:20] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:22] ppocr INFO: epoch: [29/100], global_step: 86, lr: 0.001000, loss: 0.056112, dice_loss: 0.003887, smooth_l1_loss: 0.052431, avg_reader_cost: 0.85532 s, avg_batch_cost: 1.06187 s, avg_samples: 16.0, ips: 15.06776 samples/s, eta: 0:04:59, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:23] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:24] ppocr INFO: epoch: [30/100], global_step: 88, lr: 0.001000, loss: 0.057960, dice_loss: 0.003883, smooth_l1_loss: 0.054669, avg_reader_cost: 0.70624 s, avg_batch_cost: 0.91307 s, avg_samples: 16.0, ips: 17.52332 samples/s, eta: 0:04:55, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:26] ppocr INFO: epoch: [30/100], global_step: 90, lr: 0.001000, loss: 0.057960, dice_loss: 0.003883, smooth_l1_loss: 0.054627, avg_reader_cost: 0.80592 s, avg_batch_cost: 1.02198 s, avg_samples: 16.0, ips: 15.65583 samples/s, eta: 0:04:53, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:26] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:28] ppocr INFO: epoch: [31/100], global_step: 92, lr: 0.001000, loss: 0.057960, dice_loss: 0.003730, smooth_l1_loss: 0.054627, avg_reader_cost: 0.92724 s, avg_batch_cost: 1.13313 s, avg_samples: 16.0, ips: 14.12019 samples/s, eta: 0:04:50, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:29] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:30] ppocr INFO: epoch: [32/100], global_step: 94, lr: 0.001000, loss: 0.056336, dice_loss: 0.003659, smooth_l1_loss: 0.052991, avg_reader_cost: 0.80010 s, avg_batch_cost: 1.00675 s, avg_samples: 16.0, ips: 15.89272 samples/s, eta: 0:04:47, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:32] ppocr INFO: epoch: [32/100], global_step: 96, lr: 0.001000, loss: 0.057960, dice_loss: 0.003489, smooth_l1_loss: 0.054581, avg_reader_cost: 0.56483 s, avg_batch_cost: 0.76665 s, avg_samples: 16.0, ips: 20.87008 samples/s, eta: 0:04:43, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:32] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:34] ppocr INFO: epoch: [33/100], global_step: 98, lr: 0.001000, loss: 0.058552, dice_loss: 0.003489, smooth_l1_loss: 0.054996, avg_reader_cost: 0.81169 s, avg_batch_cost: 1.01185 s, avg_samples: 16.0, ips: 15.81264 samples/s, eta: 0:04:40, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:35] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:37] ppocr INFO: epoch: [34/100], global_step: 100, lr: 0.001000, loss: 0.057159, dice_loss: 0.003489, smooth_l1_loss: 0.053742, avg_reader_cost: 0.90269 s, avg_batch_cost: 1.10475 s, avg_samples: 16.0, ips: 14.48292 samples/s, eta: 0:04:37, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:38] ppocr INFO: epoch: [34/100], global_step: 102, lr: 0.001000, loss: 0.055801, dice_loss: 0.003856, smooth_l1_loss: 0.052520, avg_reader_cost: 0.60153 s, avg_batch_cost: 0.80820 s, avg_samples: 16.0, ips: 19.79705 samples/s, eta: 0:04:34, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:38] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:41] ppocr INFO: epoch: [35/100], global_step: 104, lr: 0.001000, loss: 0.051571, dice_loss: 0.003856, smooth_l1_loss: 0.048023, avg_reader_cost: 0.88459 s, avg_batch_cost: 1.10274 s, avg_samples: 16.0, ips: 14.50932 samples/s, eta: 0:04:31, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:42] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:43] ppocr INFO: epoch: [36/100], global_step: 106, lr: 0.001000, loss: 0.047733, dice_loss: 0.003856, smooth_l1_loss: 0.043717, avg_reader_cost: 0.85903 s, avg_batch_cost: 1.06739 s, avg_samples: 16.0, ips: 14.98979 samples/s, eta: 0:04:28, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:45] ppocr INFO: epoch: [36/100], global_step: 108, lr: 0.001000, loss: 0.051140, dice_loss: 0.003831, smooth_l1_loss: 0.047462, avg_reader_cost: 0.69326 s, avg_batch_cost: 0.89545 s, avg_samples: 16.0, ips: 17.86815 samples/s, eta: 0:04:25, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:45] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:47] ppocr INFO: epoch: [37/100], global_step: 110, lr: 0.001000, loss: 0.048829, dice_loss: 0.003831, smooth_l1_loss: 0.045087, avg_reader_cost: 0.82211 s, avg_batch_cost: 1.02661 s, avg_samples: 16.0, ips: 15.58527 samples/s, eta: 0:04:22, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:48] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:49] ppocr INFO: epoch: [38/100], global_step: 112, lr: 0.001000, loss: 0.046989, dice_loss: 0.003904, smooth_l1_loss: 0.043002, avg_reader_cost: 0.90296 s, avg_batch_cost: 1.10388 s, avg_samples: 16.0, ips: 14.49435 samples/s, eta: 0:04:20, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:51] ppocr INFO: epoch: [38/100], global_step: 114, lr: 0.001000, loss: 0.048829, dice_loss: 0.003857, smooth_l1_loss: 0.045087, avg_reader_cost: 0.67316 s, avg_batch_cost: 0.88298 s, avg_samples: 16.0, ips: 18.12047 samples/s, eta: 0:04:17, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:51] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:54] ppocr INFO: epoch: [39/100], global_step: 116, lr: 0.001000, loss: 0.048829, dice_loss: 0.003857, smooth_l1_loss: 0.045087, avg_reader_cost: 0.86749 s, avg_batch_cost: 1.07586 s, avg_samples: 16.0, ips: 14.87182 samples/s, eta: 0:04:14, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:55] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:11:56] ppocr INFO: epoch: [40/100], global_step: 118, lr: 0.001000, loss: 0.048829, dice_loss: 0.003723, smooth_l1_loss: 0.045087, avg_reader_cost: 0.84474 s, avg_batch_cost: 1.05239 s, avg_samples: 16.0, ips: 15.20356 samples/s, eta: 0:04:11, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:58] ppocr INFO: epoch: [40/100], global_step: 120, lr: 0.001000, loss: 0.048829, dice_loss: 0.003831, smooth_l1_loss: 0.045087, avg_reader_cost: 0.81555 s, avg_batch_cost: 1.01902 s, avg_samples: 16.0, ips: 15.70140 samples/s, eta: 0:04:09, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:11:58] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:01] ppocr INFO: epoch: [41/100], global_step: 122, lr: 0.001000, loss: 0.050974, dice_loss: 0.003688, smooth_l1_loss: 0.047186, avg_reader_cost: 0.98314 s, avg_batch_cost: 1.19156 s, avg_samples: 16.0, ips: 13.42774 samples/s, eta: 0:04:06, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:02] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:03] ppocr INFO: epoch: [42/100], global_step: 124, lr: 0.001000, loss: 0.050974, dice_loss: 0.003779, smooth_l1_loss: 0.047186, avg_reader_cost: 0.89521 s, avg_batch_cost: 1.10174 s, avg_samples: 16.0, ips: 14.52250 samples/s, eta: 0:04:03, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:05] ppocr INFO: epoch: [42/100], global_step: 126, lr: 0.001000, loss: 0.050974, dice_loss: 0.003819, smooth_l1_loss: 0.047186, avg_reader_cost: 0.67309 s, avg_batch_cost: 0.87771 s, avg_samples: 16.0, ips: 18.22921 samples/s, eta: 0:04:01, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:05] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:07] ppocr INFO: epoch: [43/100], global_step: 128, lr: 0.001000, loss: 0.047119, dice_loss: 0.003779, smooth_l1_loss: 0.043392, avg_reader_cost: 0.94209 s, avg_batch_cost: 1.13187 s, avg_samples: 16.0, ips: 14.13589 samples/s, eta: 0:03:58, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:08] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:10] ppocr INFO: epoch: [44/100], global_step: 130, lr: 0.001000, loss: 0.047119, dice_loss: 0.003700, smooth_l1_loss: 0.043392, avg_reader_cost: 0.99423 s, avg_batch_cost: 1.20171 s, avg_samples: 16.0, ips: 13.31438 samples/s, eta: 0:03:55, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:11] ppocr INFO: epoch: [44/100], global_step: 132, lr: 0.001000, loss: 0.045595, dice_loss: 0.003611, smooth_l1_loss: 0.042225, avg_reader_cost: 0.55649 s, avg_batch_cost: 0.75851 s, avg_samples: 16.0, ips: 21.09388 samples/s, eta: 0:03:52, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:12] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:14] ppocr INFO: epoch: [45/100], global_step: 134, lr: 0.001000, loss: 0.045595, dice_loss: 0.003632, smooth_l1_loss: 0.042225, avg_reader_cost: 0.96488 s, avg_batch_cost: 1.12316 s, avg_samples: 16.0, ips: 14.24550 samples/s, eta: 0:03:50, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:15] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:16] ppocr INFO: epoch: [46/100], global_step: 136, lr: 0.001000, loss: 0.045595, dice_loss: 0.003632, smooth_l1_loss: 0.042225, avg_reader_cost: 0.89748 s, avg_batch_cost: 1.10064 s, avg_samples: 16.0, ips: 14.53695 samples/s, eta: 0:03:47, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:18] ppocr INFO: epoch: [46/100], global_step: 138, lr: 0.001000, loss: 0.043625, dice_loss: 0.003606, smooth_l1_loss: 0.040327, avg_reader_cost: 0.59746 s, avg_batch_cost: 0.80275 s, avg_samples: 16.0, ips: 19.93152 samples/s, eta: 0:03:44, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:18] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:20] ppocr INFO: epoch: [47/100], global_step: 140, lr: 0.001000, loss: 0.043765, dice_loss: 0.003559, smooth_l1_loss: 0.040415, avg_reader_cost: 0.92791 s, avg_batch_cost: 1.13128 s, avg_samples: 16.0, ips: 14.14323 samples/s, eta: 0:03:41, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:21] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:22] ppocr INFO: epoch: [48/100], global_step: 142, lr: 0.001000, loss: 0.043235, dice_loss: 0.003606, smooth_l1_loss: 0.039878, avg_reader_cost: 0.79427 s, avg_batch_cost: 0.99604 s, avg_samples: 16.0, ips: 16.06363 samples/s, eta: 0:03:38, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:25] ppocr INFO: epoch: [48/100], global_step: 144, lr: 0.001000, loss: 0.043235, dice_loss: 0.003556, smooth_l1_loss: 0.039878, avg_reader_cost: 0.76735 s, avg_batch_cost: 0.98136 s, avg_samples: 16.0, ips: 16.30396 samples/s, eta: 0:03:36, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:25] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:27] ppocr INFO: epoch: [49/100], global_step: 146, lr: 0.001000, loss: 0.043235, dice_loss: 0.003486, smooth_l1_loss: 0.039878, avg_reader_cost: 0.83501 s, avg_batch_cost: 1.03863 s, avg_samples: 16.0, ips: 15.40484 samples/s, eta: 0:03:33, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:28] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:29] ppocr INFO: epoch: [50/100], global_step: 148, lr: 0.001000, loss: 0.042305, dice_loss: 0.003486, smooth_l1_loss: 0.038855, avg_reader_cost: 0.99765 s, avg_batch_cost: 1.19773 s, avg_samples: 16.0, ips: 13.35865 samples/s, eta: 0:03:30, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:31] ppocr INFO: epoch: [50/100], global_step: 150, lr: 0.001000, loss: 0.040039, dice_loss: 0.003461, smooth_l1_loss: 0.036613, avg_reader_cost: 0.62511 s, avg_batch_cost: 0.82994 s, avg_samples: 16.0, ips: 19.27849 samples/s, eta: 0:03:27, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:31] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:34] ppocr INFO: epoch: [51/100], global_step: 152, lr: 0.001000, loss: 0.042305, dice_loss: 0.003486, smooth_l1_loss: 0.038855, avg_reader_cost: 0.93750 s, avg_batch_cost: 1.15002 s, avg_samples: 16.0, ips: 13.91284 samples/s, eta: 0:03:24, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:35] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:36] ppocr INFO: epoch: [52/100], global_step: 154, lr: 0.001000, loss: 0.042305, dice_loss: 0.003426, smooth_l1_loss: 0.038855, avg_reader_cost: 0.91444 s, avg_batch_cost: 1.11898 s, avg_samples: 16.0, ips: 14.29871 samples/s, eta: 0:03:22, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:38] ppocr INFO: epoch: [52/100], global_step: 156, lr: 0.001000, loss: 0.042305, dice_loss: 0.003425, smooth_l1_loss: 0.038855, avg_reader_cost: 0.56789 s, avg_batch_cost: 0.77165 s, avg_samples: 16.0, ips: 20.73491 samples/s, eta: 0:03:19, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:38] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:40] ppocr INFO: epoch: [53/100], global_step: 158, lr: 0.001000, loss: 0.044475, dice_loss: 0.003385, smooth_l1_loss: 0.040799, avg_reader_cost: 0.99704 s, avg_batch_cost: 1.20466 s, avg_samples: 16.0, ips: 13.28176 samples/s, eta: 0:03:16, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:41] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:43] ppocr INFO: epoch: [54/100], global_step: 160, lr: 0.001000, loss: 0.046036, dice_loss: 0.003359, smooth_l1_loss: 0.042209, avg_reader_cost: 1.14057 s, avg_batch_cost: 1.35149 s, avg_samples: 16.0, ips: 11.83881 samples/s, eta: 0:03:14, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:45] ppocr INFO: epoch: [54/100], global_step: 162, lr: 0.001000, loss: 0.046822, dice_loss: 0.003359, smooth_l1_loss: 0.043299, avg_reader_cost: 0.86455 s, avg_batch_cost: 1.07932 s, avg_samples: 16.0, ips: 14.82419 samples/s, eta: 0:03:12, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:45] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:48] ppocr INFO: epoch: [55/100], global_step: 164, lr: 0.001000, loss: 0.046822, dice_loss: 0.003329, smooth_l1_loss: 0.043299, avg_reader_cost: 0.93161 s, avg_batch_cost: 1.14121 s, avg_samples: 16.0, ips: 14.02026 samples/s, eta: 0:03:09, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:49] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:50] ppocr INFO: epoch: [56/100], global_step: 166, lr: 0.001000, loss: 0.047632, dice_loss: 0.003399, smooth_l1_loss: 0.043749, avg_reader_cost: 1.04903 s, avg_batch_cost: 1.25815 s, avg_samples: 16.0, ips: 12.71709 samples/s, eta: 0:03:06, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:53] ppocr INFO: epoch: [56/100], global_step: 168, lr: 0.001000, loss: 0.048469, dice_loss: 0.003443, smooth_l1_loss: 0.044611, avg_reader_cost: 0.82315 s, avg_batch_cost: 1.02576 s, avg_samples: 16.0, ips: 15.59826 samples/s, eta: 0:03:04, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:53] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:55] ppocr INFO: epoch: [57/100], global_step: 170, lr: 0.001000, loss: 0.049090, dice_loss: 0.003443, smooth_l1_loss: 0.045482, avg_reader_cost: 1.00692 s, avg_batch_cost: 1.20555 s, avg_samples: 16.0, ips: 13.27192 samples/s, eta: 0:03:01, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:12:56] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:12:58] ppocr INFO: epoch: [58/100], global_step: 172, lr: 0.001000, loss: 0.049090, dice_loss: 0.003365, smooth_l1_loss: 0.045482, avg_reader_cost: 1.02538 s, avg_batch_cost: 1.22671 s, avg_samples: 16.0, ips: 13.04297 samples/s, eta: 0:02:59, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:00] ppocr INFO: epoch: [58/100], global_step: 174, lr: 0.001000, loss: 0.048469, dice_loss: 0.003564, smooth_l1_loss: 0.044611, avg_reader_cost: 0.85675 s, avg_batch_cost: 1.06295 s, avg_samples: 16.0, ips: 15.05246 samples/s, eta: 0:02:56, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:00] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:03] ppocr INFO: epoch: [59/100], global_step: 176, lr: 0.001000, loss: 0.048048, dice_loss: 0.003469, smooth_l1_loss: 0.044611, avg_reader_cost: 1.04309 s, avg_batch_cost: 1.25746 s, avg_samples: 16.0, ips: 12.72402 samples/s, eta: 0:02:54, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:05] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:06] ppocr INFO: epoch: [60/100], global_step: 178, lr: 0.001000, loss: 0.049323, dice_loss: 0.003391, smooth_l1_loss: 0.045792, avg_reader_cost: 1.44075 s, avg_batch_cost: 1.65617 s, avg_samples: 16.0, ips: 9.66082 samples/s, eta: 0:02:52, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:09] ppocr INFO: epoch: [60/100], global_step: 180, lr: 0.001000, loss: 0.048469, dice_loss: 0.003469, smooth_l1_loss: 0.044702, avg_reader_cost: 1.34599 s, avg_batch_cost: 1.55971 s, avg_samples: 16.0, ips: 10.25832 samples/s, eta: 0:02:50, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:10] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:13] ppocr INFO: epoch: [61/100], global_step: 182, lr: 0.001000, loss: 0.048048, dice_loss: 0.003391, smooth_l1_loss: 0.044611, avg_reader_cost: 1.42213 s, avg_batch_cost: 1.64294 s, avg_samples: 16.0, ips: 9.73866 samples/s, eta: 0:02:48, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:14] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:16] ppocr INFO: epoch: [62/100], global_step: 184, lr: 0.001000, loss: 0.047502, dice_loss: 0.003417, smooth_l1_loss: 0.044148, avg_reader_cost: 1.22190 s, avg_batch_cost: 1.43616 s, avg_samples: 16.0, ips: 11.14080 samples/s, eta: 0:02:46, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:19] ppocr INFO: epoch: [62/100], global_step: 186, lr: 0.001000, loss: 0.047502, dice_loss: 0.003417, smooth_l1_loss: 0.044148, avg_reader_cost: 1.12598 s, avg_batch_cost: 1.34501 s, avg_samples: 16.0, ips: 11.89579 samples/s, eta: 0:02:44, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:19] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:22] ppocr INFO: epoch: [63/100], global_step: 188, lr: 0.001000, loss: 0.045797, dice_loss: 0.003445, smooth_l1_loss: 0.042411, avg_reader_cost: 1.22124 s, avg_batch_cost: 1.43331 s, avg_samples: 16.0, ips: 11.16296 samples/s, eta: 0:02:41, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:23] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:24] ppocr INFO: epoch: [64/100], global_step: 190, lr: 0.001000, loss: 0.044074, dice_loss: 0.003445, smooth_l1_loss: 0.040340, avg_reader_cost: 0.75402 s, avg_batch_cost: 0.97250 s, avg_samples: 16.0, ips: 16.45242 samples/s, eta: 0:02:38, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:27] ppocr INFO: epoch: [64/100], global_step: 192, lr: 0.001000, loss: 0.042252, dice_loss: 0.003549, smooth_l1_loss: 0.038286, avg_reader_cost: 1.18361 s, avg_batch_cost: 1.39653 s, avg_samples: 16.0, ips: 11.45699 samples/s, eta: 0:02:36, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:27] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:29] ppocr INFO: epoch: [65/100], global_step: 194, lr: 0.001000, loss: 0.045507, dice_loss: 0.003417, smooth_l1_loss: 0.041691, avg_reader_cost: 1.05375 s, avg_batch_cost: 1.26151 s, avg_samples: 16.0, ips: 12.68323 samples/s, eta: 0:02:33, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:31] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:32] ppocr INFO: epoch: [66/100], global_step: 196, lr: 0.001000, loss: 0.042252, dice_loss: 0.003445, smooth_l1_loss: 0.038286, avg_reader_cost: 0.96312 s, avg_batch_cost: 1.17008 s, avg_samples: 16.0, ips: 13.67428 samples/s, eta: 0:02:30, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:34] ppocr INFO: epoch: [66/100], global_step: 198, lr: 0.001000, loss: 0.040526, dice_loss: 0.003570, smooth_l1_loss: 0.036929, avg_reader_cost: 0.66505 s, avg_batch_cost: 0.86851 s, avg_samples: 16.0, ips: 18.42230 samples/s, eta: 0:02:28, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:34] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:37] ppocr INFO: epoch: [67/100], global_step: 200, lr: 0.001000, loss: 0.042252, dice_loss: 0.003475, smooth_l1_loss: 0.038286, avg_reader_cost: 1.17400 s, avg_batch_cost: 1.38337 s, avg_samples: 16.0, ips: 11.56595 samples/s, eta: 0:02:25, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:38] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:39] ppocr INFO: epoch: [68/100], global_step: 202, lr: 0.001000, loss: 0.042252, dice_loss: 0.003497, smooth_l1_loss: 0.038286, avg_reader_cost: 1.12253 s, avg_batch_cost: 1.26910 s, avg_samples: 16.0, ips: 12.60736 samples/s, eta: 0:02:22, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:41] ppocr INFO: epoch: [68/100], global_step: 204, lr: 0.001000, loss: 0.041164, dice_loss: 0.003497, smooth_l1_loss: 0.037597, avg_reader_cost: 0.74177 s, avg_batch_cost: 0.94832 s, avg_samples: 16.0, ips: 16.87200 samples/s, eta: 0:02:20, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:42] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:44] ppocr INFO: epoch: [69/100], global_step: 206, lr: 0.001000, loss: 0.040080, dice_loss: 0.003497, smooth_l1_loss: 0.036529, avg_reader_cost: 1.02556 s, avg_batch_cost: 1.23296 s, avg_samples: 16.0, ips: 12.97685 samples/s, eta: 0:02:16, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:45] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:47] ppocr INFO: epoch: [70/100], global_step: 208, lr: 0.001000, loss: 0.038903, dice_loss: 0.003460, smooth_l1_loss: 0.035535, avg_reader_cost: 1.07405 s, avg_batch_cost: 1.28241 s, avg_samples: 16.0, ips: 12.47652 samples/s, eta: 0:02:13, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:49] ppocr INFO: epoch: [70/100], global_step: 210, lr: 0.001000, loss: 0.037745, dice_loss: 0.003429, smooth_l1_loss: 0.034500, avg_reader_cost: 0.63117 s, avg_batch_cost: 0.83798 s, avg_samples: 16.0, ips: 19.09351 samples/s, eta: 0:02:11, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:49] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:51] ppocr INFO: epoch: [71/100], global_step: 212, lr: 0.001000, loss: 0.037030, dice_loss: 0.003429, smooth_l1_loss: 0.033708, avg_reader_cost: 0.78407 s, avg_batch_cost: 0.99177 s, avg_samples: 16.0, ips: 16.13283 samples/s, eta: 0:02:08, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:52] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:53] ppocr INFO: epoch: [72/100], global_step: 214, lr: 0.001000, loss: 0.036661, dice_loss: 0.003460, smooth_l1_loss: 0.033096, avg_reader_cost: 1.10016 s, avg_batch_cost: 1.31511 s, avg_samples: 16.0, ips: 12.16624 samples/s, eta: 0:02:05, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:56] ppocr INFO: epoch: [72/100], global_step: 216, lr: 0.001000, loss: 0.037745, dice_loss: 0.003460, smooth_l1_loss: 0.034500, avg_reader_cost: 0.83319 s, avg_batch_cost: 1.03816 s, avg_samples: 16.0, ips: 15.41190 samples/s, eta: 0:02:02, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:56] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:13:58] ppocr INFO: epoch: [73/100], global_step: 218, lr: 0.001000, loss: 0.037745, dice_loss: 0.003429, smooth_l1_loss: 0.034500, avg_reader_cost: 0.94026 s, avg_batch_cost: 1.14414 s, avg_samples: 16.0, ips: 13.98430 samples/s, eta: 0:01:59, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:13:59] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:01] ppocr INFO: epoch: [74/100], global_step: 220, lr: 0.001000, loss: 0.037745, dice_loss: 0.003429, smooth_l1_loss: 0.034500, avg_reader_cost: 1.13902 s, avg_batch_cost: 1.34508 s, avg_samples: 16.0, ips: 11.89519 samples/s, eta: 0:01:56, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:03] ppocr INFO: epoch: [74/100], global_step: 222, lr: 0.001000, loss: 0.037745, dice_loss: 0.003447, smooth_l1_loss: 0.034500, avg_reader_cost: 0.62542 s, avg_batch_cost: 0.83431 s, avg_samples: 16.0, ips: 19.17746 samples/s, eta: 0:01:54, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:03] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:05] ppocr INFO: epoch: [75/100], global_step: 224, lr: 0.001000, loss: 0.037745, dice_loss: 0.003447, smooth_l1_loss: 0.034500, avg_reader_cost: 1.00247 s, avg_batch_cost: 1.21147 s, avg_samples: 16.0, ips: 13.20707 samples/s, eta: 0:01:51, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:06] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:08] ppocr INFO: epoch: [76/100], global_step: 226, lr: 0.001000, loss: 0.039219, dice_loss: 0.003454, smooth_l1_loss: 0.035801, avg_reader_cost: 0.85133 s, avg_batch_cost: 1.05793 s, avg_samples: 16.0, ips: 15.12388 samples/s, eta: 0:01:47, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:10] ppocr INFO: epoch: [76/100], global_step: 228, lr: 0.001000, loss: 0.038882, dice_loss: 0.003503, smooth_l1_loss: 0.035099, avg_reader_cost: 0.73792 s, avg_batch_cost: 0.94212 s, avg_samples: 16.0, ips: 16.98306 samples/s, eta: 0:01:45, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:10] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:12] ppocr INFO: epoch: [77/100], global_step: 230, lr: 0.001000, loss: 0.036083, dice_loss: 0.003523, smooth_l1_loss: 0.032507, avg_reader_cost: 0.88605 s, avg_batch_cost: 1.09069 s, avg_samples: 16.0, ips: 14.66956 samples/s, eta: 0:01:42, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:13] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:15] ppocr INFO: epoch: [78/100], global_step: 232, lr: 0.001000, loss: 0.038882, dice_loss: 0.003503, smooth_l1_loss: 0.035099, avg_reader_cost: 0.99905 s, avg_batch_cost: 1.21186 s, avg_samples: 16.0, ips: 13.20281 samples/s, eta: 0:01:39, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:17] ppocr INFO: epoch: [78/100], global_step: 234, lr: 0.001000, loss: 0.038882, dice_loss: 0.003530, smooth_l1_loss: 0.035099, avg_reader_cost: 0.76285 s, avg_batch_cost: 0.96529 s, avg_samples: 16.0, ips: 16.57529 samples/s, eta: 0:01:36, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:17] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:19] ppocr INFO: epoch: [79/100], global_step: 236, lr: 0.001000, loss: 0.040891, dice_loss: 0.003503, smooth_l1_loss: 0.036949, avg_reader_cost: 1.12737 s, avg_batch_cost: 1.33180 s, avg_samples: 16.0, ips: 12.01381 samples/s, eta: 0:01:33, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:21] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:22] ppocr INFO: epoch: [80/100], global_step: 238, lr: 0.001000, loss: 0.040891, dice_loss: 0.003495, smooth_l1_loss: 0.036949, avg_reader_cost: 0.92732 s, avg_batch_cost: 1.13079 s, avg_samples: 16.0, ips: 14.14939 samples/s, eta: 0:01:30, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:24] ppocr INFO: epoch: [80/100], global_step: 240, lr: 0.001000, loss: 0.040891, dice_loss: 0.003486, smooth_l1_loss: 0.036949, avg_reader_cost: 0.77694 s, avg_batch_cost: 0.99032 s, avg_samples: 16.0, ips: 16.15634 samples/s, eta: 0:01:28, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:24] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:26] ppocr INFO: epoch: [81/100], global_step: 242, lr: 0.001000, loss: 0.040805, dice_loss: 0.003443, smooth_l1_loss: 0.037083, avg_reader_cost: 0.84075 s, avg_batch_cost: 1.04906 s, avg_samples: 16.0, ips: 15.25173 samples/s, eta: 0:01:24, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:27] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:29] ppocr INFO: epoch: [82/100], global_step: 244, lr: 0.001000, loss: 0.040822, dice_loss: 0.003410, smooth_l1_loss: 0.037712, avg_reader_cost: 0.93323 s, avg_batch_cost: 1.13826 s, avg_samples: 16.0, ips: 14.05651 samples/s, eta: 0:01:21, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:30] ppocr INFO: epoch: [82/100], global_step: 246, lr: 0.001000, loss: 0.039091, dice_loss: 0.003396, smooth_l1_loss: 0.035711, avg_reader_cost: 0.65097 s, avg_batch_cost: 0.85855 s, avg_samples: 16.0, ips: 18.63608 samples/s, eta: 0:01:19, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:31] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:33] ppocr INFO: epoch: [83/100], global_step: 248, lr: 0.001000, loss: 0.040822, dice_loss: 0.003380, smooth_l1_loss: 0.037712, avg_reader_cost: 0.90859 s, avg_batch_cost: 1.10781 s, avg_samples: 16.0, ips: 14.44295 samples/s, eta: 0:01:16, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:34] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:35] ppocr INFO: epoch: [84/100], global_step: 250, lr: 0.001000, loss: 0.040822, dice_loss: 0.003314, smooth_l1_loss: 0.037712, avg_reader_cost: 0.77244 s, avg_batch_cost: 0.97593 s, avg_samples: 16.0, ips: 16.39460 samples/s, eta: 0:01:12, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:37] ppocr INFO: epoch: [84/100], global_step: 252, lr: 0.001000, loss: 0.040822, dice_loss: 0.003357, smooth_l1_loss: 0.037712, avg_reader_cost: 0.71945 s, avg_batch_cost: 0.91639 s, avg_samples: 16.0, ips: 17.45990 samples/s, eta: 0:01:10, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:37] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:39] ppocr INFO: epoch: [85/100], global_step: 254, lr: 0.001000, loss: 0.040541, dice_loss: 0.003357, smooth_l1_loss: 0.037130, avg_reader_cost: 0.83465 s, avg_batch_cost: 1.04165 s, avg_samples: 16.0, ips: 15.36020 samples/s, eta: 0:01:07, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:40] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:42] ppocr INFO: epoch: [86/100], global_step: 256, lr: 0.001000, loss: 0.039091, dice_loss: 0.003274, smooth_l1_loss: 0.035711, avg_reader_cost: 1.02435 s, avg_batch_cost: 1.22977 s, avg_samples: 16.0, ips: 13.01058 samples/s, eta: 0:01:04, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:44] ppocr INFO: epoch: [86/100], global_step: 258, lr: 0.001000, loss: 0.038325, dice_loss: 0.003287, smooth_l1_loss: 0.035060, avg_reader_cost: 0.69941 s, avg_batch_cost: 0.90018 s, avg_samples: 16.0, ips: 17.77431 samples/s, eta: 0:01:01, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:44] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:46] ppocr INFO: epoch: [87/100], global_step: 260, lr: 0.001000, loss: 0.035595, dice_loss: 0.003287, smooth_l1_loss: 0.032250, avg_reader_cost: 0.77987 s, avg_batch_cost: 0.98610 s, avg_samples: 16.0, ips: 16.22555 samples/s, eta: 0:00:58, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:47] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:48] ppocr INFO: epoch: [88/100], global_step: 262, lr: 0.001000, loss: 0.034281, dice_loss: 0.003302, smooth_l1_loss: 0.031014, avg_reader_cost: 0.90156 s, avg_batch_cost: 1.11362 s, avg_samples: 16.0, ips: 14.36759 samples/s, eta: 0:00:55, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:50] ppocr INFO: epoch: [88/100], global_step: 264, lr: 0.001000, loss: 0.034281, dice_loss: 0.003312, smooth_l1_loss: 0.031014, avg_reader_cost: 0.81838 s, avg_batch_cost: 1.02209 s, avg_samples: 16.0, ips: 15.65416 samples/s, eta: 0:00:53, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:50] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:52] ppocr INFO: epoch: [89/100], global_step: 266, lr: 0.001000, loss: 0.035241, dice_loss: 0.003361, smooth_l1_loss: 0.031979, avg_reader_cost: 0.77538 s, avg_batch_cost: 0.98369 s, avg_samples: 16.0, ips: 16.26537 samples/s, eta: 0:00:49, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:54] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:55] ppocr INFO: epoch: [90/100], global_step: 268, lr: 0.001000, loss: 0.035241, dice_loss: 0.003361, smooth_l1_loss: 0.031979, avg_reader_cost: 0.83371 s, avg_batch_cost: 1.03959 s, avg_samples: 16.0, ips: 15.39071 samples/s, eta: 0:00:46, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:57] ppocr INFO: epoch: [90/100], global_step: 270, lr: 0.001000, loss: 0.037348, dice_loss: 0.003412, smooth_l1_loss: 0.033839, avg_reader_cost: 0.86879 s, avg_batch_cost: 1.06583 s, avg_samples: 16.0, ips: 15.01182 samples/s, eta: 0:00:44, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:14:57] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:14:59] ppocr INFO: epoch: [91/100], global_step: 272, lr: 0.001000, loss: 0.037348, dice_loss: 0.003411, smooth_l1_loss: 0.033839, avg_reader_cost: 0.68087 s, avg_batch_cost: 0.88622 s, avg_samples: 16.0, ips: 18.05430 samples/s, eta: 0:00:41, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:00] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:02] ppocr INFO: epoch: [92/100], global_step: 274, lr: 0.001000, loss: 0.036843, dice_loss: 0.003411, smooth_l1_loss: 0.033277, avg_reader_cost: 1.13513 s, avg_batch_cost: 1.34629 s, avg_samples: 16.0, ips: 11.88452 samples/s, eta: 0:00:37, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:04] ppocr INFO: epoch: [92/100], global_step: 276, lr: 0.001000, loss: 0.035925, dice_loss: 0.003414, smooth_l1_loss: 0.032415, avg_reader_cost: 0.68573 s, avg_batch_cost: 0.90084 s, avg_samples: 16.0, ips: 17.76128 samples/s, eta: 0:00:35, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:04] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:06] ppocr INFO: epoch: [93/100], global_step: 278, lr: 0.001000, loss: 0.036324, dice_loss: 0.003414, smooth_l1_loss: 0.032886, avg_reader_cost: 0.90667 s, avg_batch_cost: 1.10888 s, avg_samples: 16.0, ips: 14.42896 samples/s, eta: 0:00:32, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:07] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:08] ppocr INFO: epoch: [94/100], global_step: 280, lr: 0.001000, loss: 0.036843, dice_loss: 0.003414, smooth_l1_loss: 0.033277, avg_reader_cost: 0.88342 s, avg_batch_cost: 1.09319 s, avg_samples: 16.0, ips: 14.63602 samples/s, eta: 0:00:29, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:10] ppocr INFO: epoch: [94/100], global_step: 282, lr: 0.001000, loss: 0.036443, dice_loss: 0.003382, smooth_l1_loss: 0.033113, avg_reader_cost: 0.63870 s, avg_batch_cost: 0.84644 s, avg_samples: 16.0, ips: 18.90277 samples/s, eta: 0:00:26, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:10] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:13] ppocr INFO: epoch: [95/100], global_step: 284, lr: 0.001000, loss: 0.036021, dice_loss: 0.003382, smooth_l1_loss: 0.032784, avg_reader_cost: 0.92336 s, avg_batch_cost: 1.12960 s, avg_samples: 16.0, ips: 14.16428 samples/s, eta: 0:00:23, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:13] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:15] ppocr INFO: epoch: [96/100], global_step: 286, lr: 0.001000, loss: 0.035293, dice_loss: 0.003348, smooth_l1_loss: 0.031704, avg_reader_cost: 0.81412 s, avg_batch_cost: 1.01589 s, avg_samples: 16.0, ips: 15.74973 samples/s, eta: 0:00:20, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:17] ppocr INFO: epoch: [96/100], global_step: 288, lr: 0.001000, loss: 0.034775, dice_loss: 0.003334, smooth_l1_loss: 0.031604, avg_reader_cost: 0.64678 s, avg_batch_cost: 0.85701 s, avg_samples: 16.0, ips: 18.66951 samples/s, eta: 0:00:18, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:17] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:19] ppocr INFO: epoch: [97/100], global_step: 290, lr: 0.001000, loss: 0.033938, dice_loss: 0.003237, smooth_l1_loss: 0.030834, avg_reader_cost: 0.95624 s, avg_batch_cost: 1.16980 s, avg_samples: 16.0, ips: 13.67752 samples/s, eta: 0:00:15, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:20] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:21] ppocr INFO: epoch: [98/100], global_step: 292, lr: 0.001000, loss: 0.033938, dice_loss: 0.003237, smooth_l1_loss: 0.030834, avg_reader_cost: 0.79427 s, avg_batch_cost: 0.99629 s, avg_samples: 16.0, ips: 16.05951 samples/s, eta: 0:00:11, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:23] ppocr INFO: epoch: [98/100], global_step: 294, lr: 0.001000, loss: 0.032999, dice_loss: 0.003128, smooth_l1_loss: 0.029417, avg_reader_cost: 0.62714 s, avg_batch_cost: 0.83334 s, avg_samples: 16.0, ips: 19.19994 samples/s, eta: 0:00:09, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:23] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:25] ppocr INFO: epoch: [99/100], global_step: 296, lr: 0.001000, loss: 0.032999, dice_loss: 0.003128, smooth_l1_loss: 0.029417, avg_reader_cost: 0.83421 s, avg_batch_cost: 1.03457 s, avg_samples: 16.0, ips: 15.46529 samples/s, eta: 0:00:06, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:26] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:27] ppocr INFO: epoch: [100/100], global_step: 298, lr: 0.001000, loss: 0.032999, dice_loss: 0.003111, smooth_l1_loss: 0.029417, avg_reader_cost: 0.83313 s, avg_batch_cost: 1.03548 s, avg_samples: 16.0, ips: 15.45178 samples/s, eta: 0:00:03, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:30] ppocr INFO: epoch: [100/100], global_step: 300, lr: 0.001000, loss: 0.032999, dice_loss: 0.003097, smooth_l1_loss: 0.029417, avg_reader_cost: 0.78994 s, avg_batch_cost: 0.99159 s, avg_samples: 16.0, ips: 16.13563 samples/s, eta: 0:00:01, max_mem_reserved: 3300 MB, max_mem_allocated: 2854 MB
+[2024/08/23 00:15:30] ppocr INFO: save model in ./output/east_mv3/latest
+[2024/08/23 00:15:30] ppocr INFO: best metric, hmean: 0, is_float16: False

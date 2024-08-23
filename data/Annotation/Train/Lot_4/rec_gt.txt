@@ -1,0 +1,194 @@
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_0.jpg	78400 CHATOU France
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_1.jpg	Salmson
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_2.jpg	MAINTIEN DE PRESSION
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_3.jpg	TYPE EXPANSON-H-203-2-T-400-2D
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_4.jpg	N° 4047300/037/ 01545/4000406265
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_5.jpg	Qmax  10 m/h
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_6.jpg	HMT.max  m
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_7.jpg	Pression service max  8bar
+crop_img/000686_Photo 21-12-2017 15.14.51_crop_8.jpg	Courant   TRI 400V  50 Hz   3.4 A
+crop_img/000427_Photo 18-12-2017 11.33.38_crop_1.jpg	WEG
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_0.jpg	Ventilateur extracteur de fumée et de chaleur
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_1.jpg	CE
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_2.jpg	1812
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_3.jpg	AIRAR Gérance libre SMTI
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_4.jpg	Certificat N° : 1812-CPD-0092
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_5.jpg	Norme Ref : EN 12101-3 : 2002
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_6.jpg	Temps de réponse : NPD
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_7.jpg	Classe de réponse au feu : F 400 120
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_8.jpg	Année de fabrication  2014
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_9.jpg	N° de série : 59169
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_10.jpg	N° d'appareil : 02
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_11.jpg	Modèle : HELICOIDE HCC 1000-3-29° - A
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_12.jpg	Puissance 10 / 2 Kw
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_13.jpg	Intensité : 19.5 / 6.50 A
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_14.jpg	Tension sous : 400 V  50 Hz
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_15.jpg	Vitesse nominale du moteur :  1451 / 731  Tr/min
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_16.jpg	Classe d'isolation thermique moteur :  H
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_17.jpg	Fixation moteur :  B3
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_18.jpg	Plan N° : 130031
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_19.jpg	Indice N° : 3
+crop_img/000439_Photo 18-12-2017 12.15.18_crop_20.jpg	Repère : VED PARK 02
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_0.jpg	Ventilateur extracteur de fumée et de chaleur
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_1.jpg	AIRAP Gérance Libre MTT
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_2.jpg	Certificat N° : 1812-CPD-0092
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_3.jpg	CE
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_4.jpg	1812
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_5.jpg	Norme Ref : EN 12101-3 :2002
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_6.jpg	Temps de réponse : NPD
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_7.jpg	Classe de réponse au feu : F 400 120
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_8.jpg	Année de fabrication : 2014
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_9.jpg	N° de série : 59169
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_10.jpg	N° d'appareil : 01
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_11.jpg	Modèle HELICOIDE HCC 1000-3-26°-A
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_12.jpg	Puissance : 10/2  KW
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_13.jpg	Intensité : 19.5/6.50 A
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_14.jpg	Tension sous : 400 V 50 Hz
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_15.jpg	Vitesse nominale du moteur : 1451/731 Tr/min
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_16.jpg	Classe d'isolation thermique moteur : H
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_17.jpg	Fixation moteur : B3
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_18.jpg	Plan N° : 130031
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_19.jpg	Indice N° : 3
+crop_img/000442_Photo 18-12-2017 12.25.12_crop_20.jpg	Repère : VED PARK 01
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_0.jpg	AIRAP Gérance libre SMTI
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_1.jpg	Moteur WEG
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_2.jpg	Année de fabrication :  2014
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_3.jpg	N° de série : 59169
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_4.jpg	N° d'appareil : 05
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_5.jpg	Modèle  HELICOIDE HCC 900 - 6 - 17°  -B
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_6.jpg	Puissance :  3.8/1  KW
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_7.jpg	Intensité :  9.25 / 2.75  A
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_8.jpg	Tension sous : 400 V 50 HZ
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_9.jpg	Vitesse nominale du moteur : 1440/710 Tr/min
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_10.jpg	Classe d'isolation thermique moteur :  F
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_11.jpg	Fixation moteur :   B3
+crop_img/000444_Photo 18-12-2017 12.29.14_crop_12.jpg	Repère :  VSD PARK  01
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_0.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_1.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_2.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_3.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_4.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_5.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_6.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_7.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_8.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_9.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_10.jpg	TEMPORARY
+crop_img/000445_Photo 18-12-2017 12.31.12_crop_11.jpg	TEMPORARY
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_0.jpg	MITSUBISHI ELECTRIC
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_1.jpg	ROOM AIR CONDITIONER
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_3.jpg	VOLTAGE  230 V
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_4.jpg	PHASE ~/N
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_5.jpg	FREQUENCY  50  Hz
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_6.jpg	IP CODE  IP24
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_7.jpg	REFRIGERANT R410A  0.80  kg
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_8.jpg	NET WEIGHT  31  kg
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_9.jpg	LP PS/HP  PS   1.64/4.15 MPa
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_10.jpg	FUNCTION  COOLING  HEATING
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_11.jpg	CAPACTY  kW  3.5  4.0
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_12.jpg	INPUT (SET)  KW  1.08  1.03
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_13.jpg	RATED CURRENT (SET)  A  4.9  4.7
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_14.jpg	RATNG  CONDITION  INDOOR  27/19  20/-
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_15.jpg	DB/WB   °C  OUTDOOR  35/24  7/6
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_16.jpg	MITSUBISHI ELECTRIC CORPORATION
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_17.jpg	NUMITSUBISHI ELECTRIC CONSUMER PRODUCTS (THAILAND) CO.,LTD;  700406 M00 7, TAMBON DON HUA ROH, AMPHUR MUANG, CHONBURI  20000  THAILAND
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_18.jpg	CE
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_19.jpg	MADE IN THAILAND SG79V481H18
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_20.jpg	SERIAL NO. 4018845  T
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_21.jpg	Contains fluorinated greenhouse gases covered by the kyoto Protocol
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_22.jpg	Factory charge (Refer to SPEC LABEL)
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_23.jpg	Additional charge
+crop_img/000663_Photo 21-12-2017 14.02.45_crop_24.jpg	+ Total charge
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_0.jpg	TOTAL INPUT
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_1.jpg	TOTAL CURRENT
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_2.jpg	PERFORMANCE
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_3.jpg	TOTAL CAPACITY
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_4.jpg	(kW)
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_5.jpg	A
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_6.jpg	ISOT1
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_7.jpg	(kW)
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_8.jpg	220/230/240V
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_9.jpg	POWER SUPPLY
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_10.jpg	1.30
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_11.jpg	0/5.7/5
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_12.jpg	COOLING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_13.jpg	36
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_14.jpg	2/6.0/5
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_15.jpg	SRK50ZJX-S1
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_16.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_17.jpg	6.4/6.1/58
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_18.jpg	COOLING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_19.jpg	1/6.8/6.
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_20.jpg	SRF50ZJX-S1
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_21.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_22.jpg	2/6.0/5
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_23.jpg	FDT5OVF
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_24.jpg	COOLING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_25.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_26.jpg	1.56
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_27.jpg	COOLING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_28.jpg	FDTC50VF
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_29.jpg	45
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_30.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_31.jpg	FDEN5OVF
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_32.jpg	COOLING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_33.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_34.jpg	3
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_35.jpg	FDUM50VF
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_36.jpg	HEATIN
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_37.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_38.jpg	COOLING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_39.jpg	2011
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_40.jpg	TESTED POWER
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_41.jpg	Ducted type be
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_42.jpg	comply with AS/NZS 3823
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_43.jpg	FDUM5OVF
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_44.jpg	HEATING
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_45.jpg	MANUFACTURING YEAR _2012
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_46.jpg	CE
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_47.jpg	C
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_48.jpg	SERVICE CODE SRC5OZJX-S/C
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_49.jpg	220-240V50
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_50.jpg	RHCOTIFOT4A
+crop_img/000664_Photo 21-12-2017 14.04.09_crop_51.jpg	3-1Asahiihj-hKiyuh4528561
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_0.jpg	GROUPE ELECTROGENE/GENERATING SET
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_1.jpg	PRESSION ACOUSTIQUE/SOUND PRESSURE
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_3.jpg	1m
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_4.jpg	7m
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_5.jpg	15m
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_6.jpg	PLAQUE CONSTRUCTEUR/MANUFACTURER PLATE
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_7.jpg	dB(A)
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_8.jpg	50 Hz
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_9.jpg	MT20
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_11.jpg	CE
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_12.jpg	60 Hz
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_13.jpg	PUISSANCE ACOUSTIQUE/SOUND POWER
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_14.jpg	EC 2000/14
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_15.jpg	rpm
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_16.jpg	Cos Phi
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_17.jpg	Phase
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_18.jpg	Hz
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_19.jpg	400/230
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_20.jpg	WA
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_21.jpg	Ambiance (C)
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_22.jpg	kW
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_23.jpg	Alt(m)
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_24.jpg	KVA
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_25.jpg	Ambiant
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_26.jpg	40
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_27.jpg	1000
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_28.jpg	PRP
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_29.jpg	0
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_30.jpg	ESP
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_31.jpg	413
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_32.jpg	330
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_33.jpg	596
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_34.jpg	0
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_35.jpg	PRP:
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_36.jpg	Puissance Principale/Prime Power
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_37.jpg	dB
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_38.jpg	ESP
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_39.jpg	Service Secours/Emergency Standby Power
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_42.jpg	SDMO Industries,12bis rue la Villeneuve-CS 92848-29228 Brest Cedex 2-France
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_43.jpg	Tel33.02.98.41.41.41-Fax33.02.98.41.63.07-www.sdmo.com
+crop_img/000685_Photo 21-12-2017 15.09.10_crop_44.jpg	Fabrique en France /Made in France

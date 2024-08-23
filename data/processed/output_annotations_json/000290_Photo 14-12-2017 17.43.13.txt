@@ -1,0 +1,317 @@
+[
+  {
+    "transcription": "Réf: NSYS3D8620",
+    "points": [
+      [
+        492,
+        311
+      ],
+      [
+        759,
+        311
+      ],
+      [
+        759,
+        347
+      ],
+      [
+        492,
+        347
+      ]
+    ]
+  },
+  {
+    "transcription": "Schneider Electric",
+    "points": [
+      [
+        264,
+        310
+      ],
+      [
+        483,
+        310
+      ],
+      [
+        483,
+        403
+      ],
+      [
+        264,
+        403
+      ]
+    ]
+  },
+  {
+    "transcription": "5A",
+    "points": [
+      [
+        785,
+        356
+      ],
+      [
+        895,
+        356
+      ],
+      [
+        895,
+        380
+      ],
+      [
+        785,
+        380
+      ]
+    ]
+  },
+  {
+    "transcription": "UL",
+    "points": [
+      [
+        306,
+        420
+      ],
+      [
+        353,
+        436
+      ],
+      [
+        343,
+        468
+      ],
+      [
+        295,
+        452
+      ]
+    ]
+  },
+  {
+    "transcription": "A-868",
+    "points": [
+      [
+        690,
+        425
+      ],
+      [
+        799,
+        428
+      ],
+      [
+        798,
+        461
+      ],
+      [
+        689,
+        457
+      ]
+    ]
+  },
+  {
+    "transcription": "FR",
+    "points": [
+      [
+        845,
+        431
+      ],
+      [
+        886,
+        435
+      ],
+      [
+        883,
+        464
+      ],
+      [
+        842,
+        460
+      ]
+    ]
+  },
+  {
+    "transcription": "US",
+    "points": [
+      [
+        356,
+        445
+      ],
+      [
+        386,
+        445
+      ],
+      [
+        386,
+        467
+      ],
+      [
+        356,
+        467
+      ]
+    ]
+  },
+  {
+    "transcription": "LISTED",
+    "points": [
+      [
+        308,
+        473
+      ],
+      [
+        367,
+        478
+      ],
+      [
+        366,
+        499
+      ],
+      [
+        306,
+        494
+      ]
+    ]
+  },
+  {
+    "transcription": "INDUSTRIAL CONTROL PANEL ENCLOSURE",
+    "points": [
+      [
+        491,
+        464
+      ],
+      [
+        808,
+        478
+      ],
+      [
+        807,
+        497
+      ],
+      [
+        490,
+        483
+      ]
+    ]
+  },
+  {
+    "transcription": "Encloure Type: 1, 2, 3, 3R, 4 4X, 5, 12 and 13",
+    "points": [
+      [
+        479,
+        482
+      ],
+      [
+        839,
+        499
+      ],
+      [
+        838,
+        522
+      ],
+      [
+        478,
+        505
+      ]
+    ]
+  },
+  {
+    "transcription": "To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing bracket kit may be used. When installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm (1/8 - 1/4 in) diameter in thelowest part of the bottom wall.",
+    "points": [
+      [
+        299,
+        493
+      ],
+      [
+        798,
+        520
+      ],
+      [
+        814,
+        583
+      ],
+      [
+        309,
+        553
+      ]
+    ]
+  },
+  {
+    "transcription": "1430",
+    "points": [
+      [
+        792,
+        585
+      ],
+      [
+        858,
+        590
+      ],
+      [
+        856,
+        619
+      ],
+      [
+        790,
+        613
+      ]
+    ]
+  },
+  {
+    "transcription": "17824625",
+    "points": [
+      [
+        727,
+        605
+      ],
+      [
+        858,
+        617
+      ],
+      [
+        856,
+        646
+      ],
+      [
+        725,
+        633
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        626,
+        606
+      ],
+      [
+        691,
+        606
+      ],
+      [
+        691,
+        654
+      ],
+      [
+        626,
+        654
+      ]
+    ]
+  },
+  {
+    "transcription": "Made in France",
+    "points": [
+      [
+        693,
+        629
+      ],
+      [
+        867,
+        648
+      ],
+      [
+        865,
+        670
+      ],
+      [
+        694,
+        655
+      ]
+    ]
+  }
+]

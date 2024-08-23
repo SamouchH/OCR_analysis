@@ -1,0 +1,317 @@
+[
+  {
+    "transcription": "Schneider Electric",
+    "points": [
+      [
+        334,
+        255
+      ],
+      [
+        557,
+        250
+      ],
+      [
+        567,
+        338
+      ],
+      [
+        395,
+        338
+      ]
+    ]
+  },
+  {
+    "transcription": "SARLL",
+    "points": [
+      [
+        826,
+        273
+      ],
+      [
+        931,
+        269
+      ],
+      [
+        932,
+        292
+      ],
+      [
+        827,
+        296
+      ]
+    ]
+  },
+  {
+    "transcription": "A-868",
+    "points": [
+      [
+        751,
+        339
+      ],
+      [
+        847,
+        339
+      ],
+      [
+        847,
+        368
+      ],
+      [
+        751,
+        368
+      ]
+    ]
+  },
+  {
+    "transcription": "FR",
+    "points": [
+      [
+        887,
+        338
+      ],
+      [
+        927,
+        338
+      ],
+      [
+        927,
+        367
+      ],
+      [
+        887,
+        367
+      ]
+    ]
+  },
+  {
+    "transcription": "US",
+    "points": [
+      [
+        455,
+        372
+      ],
+      [
+        480,
+        372
+      ],
+      [
+        480,
+        387
+      ],
+      [
+        455,
+        387
+      ]
+    ]
+  },
+  {
+    "transcription": "INDUSTRIAL CONTROL PANEL ENCLOSURE",
+    "points": [
+      [
+        575,
+        382
+      ],
+      [
+        857,
+        382
+      ],
+      [
+        857,
+        399
+      ],
+      [
+        575,
+        399
+      ]
+    ]
+  },
+  {
+    "transcription": "LISTED",
+    "points": [
+      [
+        419,
+        397
+      ],
+      [
+        471,
+        397
+      ],
+      [
+        471,
+        416
+      ],
+      [
+        419,
+        416
+      ]
+    ]
+  },
+  {
+    "transcription": "Enclosure Type:1.2,3.3R44X.512 and 13.",
+    "points": [
+      [
+        565,
+        398
+      ],
+      [
+        885,
+        399
+      ],
+      [
+        885,
+        417
+      ],
+      [
+        565,
+        416
+      ]
+    ]
+  },
+  {
+    "transcription": " mantain the environmental type rating. all conduit nttings and other components",
+    "points": [
+      [
+        421,
+        415
+      ],
+      [
+        849,
+        421
+      ],
+      [
+        849,
+        436
+      ],
+      [
+        421,
+        430
+      ]
+    ]
+  },
+  {
+    "transcription": "Ned ia openings made In the enolosure must have lts same ratinge and oniy wall",
+    "points": [
+      [
+        436,
+        428
+      ],
+      [
+        857,
+        433
+      ],
+      [
+        857,
+        450
+      ],
+      [
+        436,
+        444
+      ]
+    ]
+  },
+  {
+    "transcription": "me02",
+    "points": [
+      [
+        456,
+        454
+      ],
+      [
+        501,
+        454
+      ],
+      [
+        501,
+        463
+      ],
+      [
+        456,
+        463
+      ]
+    ]
+  },
+  {
+    "transcription": ".4mm (1/8-1/4 in) diameter In the lowest part ot the bottom wall.",
+    "points": [
+      [
+        496,
+        451
+      ],
+      [
+        864,
+        458
+      ],
+      [
+        864,
+        475
+      ],
+      [
+        496,
+        468
+      ]
+    ]
+  },
+  {
+    "transcription": "1436",
+    "points": [
+      [
+        846,
+        476
+      ],
+      [
+        906,
+        481
+      ],
+      [
+        904,
+        507
+      ],
+      [
+        843,
+        502
+      ]
+    ]
+  },
+  {
+    "transcription": "17878734",
+    "points": [
+      [
+        791,
+        499
+      ],
+      [
+        908,
+        504
+      ],
+      [
+        907,
+        527
+      ],
+      [
+        790,
+        523
+      ]
+    ]
+  },
+  {
+    "transcription": "Réf: NSYS3D7525",
+    "points": [
+      [
+        569,
+        248
+      ],
+      [
+        811,
+        236
+      ],
+      [
+        807,
+        273
+      ],
+      [
+        572,
+        283
+      ]
+    ]
+  }
+]

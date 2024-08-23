@@ -1,0 +1,275 @@
+[
+  {
+    "transcription": "SARLL",
+    "points": [
+      [
+        987,
+        175
+      ],
+      [
+        1087,
+        178
+      ],
+      [
+        1089,
+        197
+      ],
+      [
+        986,
+        198
+      ]
+    ]
+  },
+  {
+    "transcription": "A-868",
+    "points": [
+      [
+        889,
+        249
+      ],
+      [
+        991,
+        249
+      ],
+      [
+        991,
+        277
+      ],
+      [
+        889,
+        277
+      ]
+    ]
+  },
+  {
+    "transcription": "FR",
+    "points": [
+      [
+        1032,
+        245
+      ],
+      [
+        1074,
+        249
+      ],
+      [
+        1071,
+        282
+      ],
+      [
+        1028,
+        278
+      ]
+    ]
+  },
+  {
+    "transcription": "INDUSTRIAL CONTROL PANEL ENCLOSURE",
+    "points": [
+      [
+        696,
+        285
+      ],
+      [
+        995,
+        293
+      ],
+      [
+        994,
+        313
+      ],
+      [
+        696,
+        304
+      ]
+    ]
+  },
+  {
+    "transcription": "LISTED",
+    "points": [
+      [
+        522,
+        297
+      ],
+      [
+        578,
+        300
+      ],
+      [
+        577,
+        319
+      ],
+      [
+        521,
+        316
+      ]
+    ]
+  },
+  {
+    "transcription": "Enclosure Type: 1, 2, 3, 3R, 4 4X, 5,12 and 13.",
+    "points": [
+      [
+        684,
+        304
+      ],
+      [
+        1018,
+        312
+      ],
+      [
+        1017,
+        332
+      ],
+      [
+        684,
+        323
+      ]
+    ]
+  },
+  {
+    "transcription": "1437",
+    "points": [
+      [
+        960,
+        397
+      ],
+      [
+        1020,
+        401
+      ],
+      [
+        1019,
+        427
+      ],
+      [
+        958,
+        423
+      ]
+    ]
+  },
+  {
+    "transcription": "17900161",
+    "points": [
+      [
+        898,
+        419
+      ],
+      [
+        1016,
+        427
+      ],
+      [
+        1015,
+        451
+      ],
+      [
+        897,
+        444
+      ]
+    ]
+  },
+  {
+    "transcription": "Schneider Electric",
+    "points": [
+      [
+        475,
+        138
+      ],
+      [
+        707,
+        138
+      ],
+      [
+        707,
+        231
+      ],
+      [
+        475,
+        231
+      ]
+    ]
+  },
+  {
+    "transcription": "Réf : NSYS3D7525",
+    "points": [
+      [
+        723,
+        139
+      ],
+      [
+        975,
+        139
+      ],
+      [
+        975,
+        172
+      ],
+      [
+        723,
+        172
+      ]
+    ]
+  },
+  {
+    "transcription": "To maintain the environmental type rating, all conduit fittings and other components installed in openings made in the enclosure must have its same ratings and only wall fixing brackel kit may be used. When Installed as a Type 2 or 3R enclosure, drill a drain hole (3.2 - 6.4mm  (1/8-1/4 In) diameter In the lowest part of the bottom wall.",
+    "points": [
+      [
+        510,
+        319
+      ],
+      [
+        990,
+        335
+      ],
+      [
+        989,
+        395
+      ],
+      [
+        517,
+        375
+      ]
+    ]
+  },
+  {
+    "transcription": "Made In France",
+    "points": [
+      [
+        865,
+        441
+      ],
+      [
+        1022,
+        451
+      ],
+      [
+        1022,
+        472
+      ],
+      [
+        862,
+        461
+      ]
+    ]
+  },
+  {
+    "transcription": "CE",
+    "points": [
+      [
+        803,
+        418
+      ],
+      [
+        871,
+        423
+      ],
+      [
+        866,
+        467
+      ],
+      [
+        797,
+        460
+      ]
+    ]
+  }
+]

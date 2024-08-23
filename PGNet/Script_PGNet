@@ -1,0 +1,36 @@
+import argparse
+import subprocess
+import os
+
+def run_paddleocr(image_path, output_path):
+    # Assurez-vous que le chemin de sortie existe
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    # Construire la commande
+    command = [
+        "python", "../PaddleOCR/tools/infer/predict_e2e.py",
+        "--e2e_algorithm=PGNet",
+        f"--image_dir={image_path}",
+        "--e2e_model_dir=./inference/e2e_server_pgnetA_infer/",
+        "--e2e_pgnet_valid_set=totaltext",
+        "--e2e_char_dict_path=../PaddleOCR/ppocr/utils/ic15_dict.txt",
+        f"--output={output_path}"
+    ]
+
+    # Exécuter la commande
+    try:
+        result = subprocess.run(command, check=True, capture_output=True, text=True)
+        print("Commande exécutée avec succès.")
+        print(result.stdout)
+    except subprocess.CalledProcessError as e:
+        print(f"Erreur lors de l'exécution de la commande: {e}")
+        print(f"Sortie d'erreur: {e.stderr}")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Exécuter PaddleOCR avec des chemins personnalisés")
+    parser.add_argument("--image_path", required=True, help="Chemin vers l'image ou le dossier d'images à traiter")
+    parser.add_argument("--output_path", required=True, help="Chemin pour sauvegarder les résultats")
+
+    args = parser.parse_args()
+
+    run_paddleocr(args.image_path, args.output_path)
